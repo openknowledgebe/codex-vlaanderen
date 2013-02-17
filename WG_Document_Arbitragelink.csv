@@ -1,0 +1,796 @@
+RecID;MStamp;MStation;IDDocument;Link;Commentaar
+1000002;2011-05-10;1;1013781;http://www.const-court.be/public/n/2006/2006-145n.pdf;"Artikel 25: verwerping beroep."
+1000003;2007-01-31;1;1001628;http://www.arbitrage.be/public/n/1993/1993-050n.pdf;
+1000004;2007-01-31;1;1001628;http://www.arbitrage.be/public/n/1994/1994-008n.pdf;
+1000005;2007-01-31;1;1002211;http://www.arbitrage.be/public/n/1994/1994-024n.pdf;
+1000006;2011-05-24;1;1000034;http://www.const-court.be/public/n/1988/1988-051n.pdf;
+1000007;2011-05-24;1;1000034;http://www.const-court.be/public/n/1988/1988-050n.pdf;
+1000008;2011-05-24;1;1000034;http://www.const-court.be/public/n/1987/1987-044n.pdf;
+1000009;2011-05-24;1;1000034;http://www.const-court.be/public/n/1989/1989-018n.pdf;
+1000010;2011-05-24;1;1000034;http://www.const-court.be/public/n/1995/1995-061n.pdf;
+1000011;2011-05-24;1;1000034;http://www.const-court.be/public/n/1994/1994-058n.pdf;
+1000012;2011-05-24;1;1000034;http://www.const-court.be/public/n/1991/1991-032n.pdf;
+1000013;2011-05-24;1;1000034;http://www.const-court.be/public/n/1996/1996-055n.pdf;
+1000014;2011-05-24;1;1000034;http://www.const-court.be/public/n/1995/1995-018n.pdf;
+1000015;2011-05-24;1;1000034;http://www.const-court.be/public/n/1997/1997-046n.pdf;
+1000016;2011-05-24;1;1000034;http://www.const-court.be/public/n/1998/1998-139n.pdf;
+1000017;2011-05-24;1;1000034;http://www.const-court.be/public/n/1988/1988-055n.pdf;
+1000018;2011-05-24;1;1000034;http://www.const-court.be/public/n/1989/1989-011n.pdf;
+1000019;2011-05-24;1;1000034;http://www.const-court.be/public/n/1997/1997-019n.pdf;
+1000020;2011-05-24;1;1000034;http://www.const-court.be/public/n/1997/1997-034n.pdf;
+1000021;2011-05-24;1;1000034;http://www.const-court.be/public/n/1998/1998-051n.pdf;
+1000022;2011-05-24;1;1000034;http://www.const-court.be/public/n/2001/2001-128n.pdf;
+1000023;2011-05-24;1;1000034;http://www.const-court.be/public/n/2004/2004-069n.pdf;"Art. 47, § 2, 38°: verwerping beroep."
+1000024;2011-05-24;1;1000034;http://www.const-court.be/public/n/2006/2006-145n.pdf;
+1000025;2007-01-31;1;1003118;http://www.arbitrage.be/public/n/1992/1992-013n.pdf;
+1000026;2007-01-31;1;1003118;http://www.arbitrage.be/public/n/1993/1993-048n.pdf;
+1000027;2007-01-31;1;1001261;http://www.arbitrage.be/public/n/1986/1986-028n.pdf;
+1000028;2007-01-31;1;1001609;http://www.arbitrage.be/public/n/1986/1986-025n.pdf;
+1000029;2007-01-31;1;1008250;http://www.arbitrage.be/public/n/1996/1996-021n.pdf;
+1000030;2007-01-31;1;1003098;http://www.arbitrage.be/public/n/1987/1987-040n.pdf;
+1000031;2007-01-31;1;1003098;http://www.arbitrage.be/public/n/1992/1992-064n.pdf;
+1000032;2009-01-19;1;1005013;http://www.arbitrage.be/public/n/1987/1987-036n.pdf;
+1000033;2009-01-19;1;1005013;http://www.arbitrage.be/public/n/1987/1987-039n.pdf;
+1000034;2009-01-19;1;1005013;http://www.arbitrage.be/public/n/1988/1988-072n.pdf;
+1000035;2007-01-31;1;1003595;http://www.arbitrage.be/public/n/1988/1988-066n.pdf;
+1000036;2007-01-31;1;1003595;http://www.arbitrage.be/public/n/1991/1991-040n.pdf;
+1000037;2011-05-10;1;1007214;http://www.const-court.be/public/n/2006/2006-018n.pdf;"Artt. 3, 5 en 7: schending."
+1000038;2009-01-19;1;1007654;http://www.arbitrage.be/public/n/1988/1988-068n.pdf;
+1000039;2011-09-19;1;1000697;http://www.const-court.be/public/n/2002/2002-134n.pdf;"Art. 19bis: geen schending."
+1000040;2007-01-31;1;1000697;http://www.arbitrage.be/public/n/1992/1992-038n.pdf;
+1000041;2009-01-19;1;1004358;http://www.arbitrage.be/public/n/1999/1999-003n.pdf;
+1000042;2009-01-19;1;1004358;http://www.arbitrage.be/public/n/1988/1988-045n.pdf;
+1000043;2007-01-31;1;1003239;http://www.arbitrage.be/public/n/1987/1987-042n.pdf;
+1000044;2009-01-19;1;1003597;http://www.arbitrage.be/public/n/1988/1988-066n.pdf;
+1000045;2006-11-27;1;1005815;http://intra.vlaanderen.be/arbitragehof/1995-018.pdf;
+1000046;2009-01-19;1;1005873;http://www.arbitrage.be/public/n/1987/1987-037n.pdf;
+1000047;2009-01-19;1;1005048;http://www.arbitrage.be/public/n/1989/1989-003n.pdf;
+1000048;2007-01-31;1;1000612;http://www.arbitrage.be/public/n/1996/1996-007n.pdf;
+1000049;2007-01-31;1;1001931;http://www.arbitrage.be/public/n/1994/1994-045n.pdf;
+1000050;2007-01-31;1;1003229;http://www.arbitrage.be/public/n/1991/1991-032n.pdf;
+1000051;2007-01-31;1;1003229;http://www.arbitrage.be/public/n/1991/1991-033n.pdf;
+1000052;2007-01-31;1;1003229;http://www.arbitrage.be/public/n/1991/1991-019n.pdf;
+1000053;2007-01-31;1;1003229;http://www.arbitrage.be/public/n/1997/1997-046n.pdf;
+1000054;2009-01-19;1;1003599;http://www.arbitrage.be/public/n/1991/1991-040n.pdf;
+1000055;2007-01-31;1;1001881;http://www.arbitrage.be/public/n/1996/1996-072n.pdf;
+1000056;2007-01-31;1;1000158;http://www.arbitrage.be/public/n/2001/2001-018n.pdf;
+1000057;2007-01-31;1;1000158;http://www.arbitrage.be/public/n/1997/1997-025n.pdf;
+1000058;2007-01-31;1;1000439;http://www.arbitrage.be/public/n/1992/1992-014n.pdf;
+1000059;2007-01-31;1;1000439;http://www.arbitrage.be/public/n/1992/1992-026n.pdf;
+1000060;2007-01-31;1;1000439;http://www.arbitrage.be/public/n/1992/1992-025n.pdf;
+1000061;2007-01-31;1;1000439;http://www.arbitrage.be/public/n/1992/1992-027n.pdf;
+1000062;2007-01-31;1;1000439;http://www.arbitrage.be/public/n/1992/1992-028n.pdf;
+1000063;2007-01-31;1;1000439;http://www.arbitrage.be/public/n/1992/1992-032n.pdf;
+1000064;2007-01-31;1;1002717;http://www.arbitrage.be/public/n/1992/1992-037n.pdf;
+1000065;2007-01-31;1;1000238;http://www.arbitrage.be/public/n/1992/1992-042n.pdf;
+1000066;2007-01-31;1;1000238;http://www.arbitrage.be/public/n/1992/1992-048n.pdf;
+1000068;2007-01-31;1;1000238;http://www.arbitrage.be/public/n/1994/1994-058n.pdf;
+1000069;2011-01-21;1;1001610;http://www.const-court.be/public/n/1992/1992-031n.pdf;
+1000070;2011-01-21;1;1001610;http://www.const-court.be/public/n/1992/1992-059n.pdf;
+1000071;2007-01-31;1;1000699;http://www.arbitrage.be/public/n/1992/1992-055n.pdf;
+1000072;2007-01-31;1;1000699;http://www.arbitrage.be/public/n/1997/1997-042n.pdf;
+1000073;2007-01-31;1;1000699;http://www.arbitrage.be/public/n/1999/1999-135n.pdf;
+1000074;2007-01-31;1;1003099;http://www.arbitrage.be/public/n/1992/1992-064n.pdf;
+1000075;2011-05-24;1;1002802;http://www.const-court.be/public/n/1992/1992-069n.pdf;"Artt. 11, 13 tot 16, 20, 25 tot 28: verwerping beroep."
+1000076;2011-05-24;1;1002802;http://www.const-court.be/public/n/2005/2005-016n.pdf;"Art. 40: gedeeltelijke vernietiging."
+1000077;2007-01-31;1;1000387;http://www.arbitrage.be/public/n/1995/1995-030n.pdf;
+1000078;2007-01-31;1;1000387;http://www.arbitrage.be/public/n/1996/1996-007n.pdf;
+1000079;2007-01-31;1;1000387;http://www.arbitrage.be/public/n/1999/1999-085n.pdf;
+1000080;2007-01-31;1;1000387;http://www.arbitrage.be/public/n/2005/2005-187n.pdf;
+1000081;2007-01-31;1;1000388;http://www.arbitrage.be/public/n/1993/1993-018n.pdf;
+1000082;2007-01-31;1;1000388;http://www.arbitrage.be/public/n/1999/1999-066n.pdf;
+1000083;2011-03-23;1;1000392;http://www.const-court.be/public/n/1993/1993-008n.pdf;
+1000084;2011-03-23;1;1000392;http://www.const-court.be/public/n/1993/1993-019n.pdf;
+1000085;2011-03-23;1;1000392;http://www.const-court.be/public/n/1992/1992-078n.pdf;
+1000086;2011-03-23;1;1000392;http://www.const-court.be/public/n/1996/1996-030n.pdf;
+1000087;2011-03-23;1;1000392;http://www.const-court.be/public/n/1994/1994-031n.pdf;
+1000088;2011-03-23;1;1000392;http://www.const-court.be/public/n/1997/1997-047n.pdf;
+1000089;2011-03-23;1;1000392;http://www.const-court.be/public/n/1998/1998-120n.pdf;
+1000090;2011-03-23;1;1000392;http://www.const-court.be/public/n/1999/1999-038n.pdf;
+1000091;2011-03-23;1;1000392;http://www.const-court.be/public/n/2000/2000-120n.pdf;
+1000092;2011-09-19;1;1000392;http://www.const-court.be/public/n/2002/2002-133n.pdf;"Art. 181, eerste lid: geen schending."
+1000093;2011-09-19;1;1000392;http://www.const-court.be/public/n/2002/2002-184n.pdf;"Art. 104: geen schending."
+1000094;2007-01-31;1;1000393;http://www.arbitrage.be/public/n/1992/1992-074n.pdf;
+1000095;2007-01-31;1;1000393;http://www.arbitrage.be/public/n/1992/1992-075n.pdf;
+1000096;2007-01-31;1;1000393;http://www.arbitrage.be/public/n/1993/1993-032n.pdf;
+1000097;2007-01-31;1;1000393;http://www.arbitrage.be/public/n/1996/1996-076n.pdf;
+1000098;2007-01-31;1;1000393;http://www.arbitrage.be/public/n/1998/1998-019n.pdf;
+1000099;2007-01-31;1;1000393;http://www.arbitrage.be/public/n/1998/1998-025n.pdf;
+1000100;2011-09-19;1;1002570;http://www.const-court.be/public/n/2002/2002-099n.pdf;"Art. 6: geen schending."
+1000101;2007-01-31;1;1000510;http://www.arbitrage.be/public/n/1993/1993-009n.pdf;
+1000102;2007-01-31;1;1002410;http://www.arbitrage.be/public/n/1997/1997-017n.pdf;
+1000103;2007-01-31;1;1002410;http://www.arbitrage.be/public/n/2001/2001-082n.pdf;
+1000104;2007-01-31;1;1000700;http://www.arbitrage.be/public/n/1993/1993-024n.pdf;
+1000105;2007-01-31;1;1000700;http://www.arbitrage.be/public/n/1993/1993-078n.pdf;
+1000106;2007-01-31;1;1000700;http://www.arbitrage.be/public/n/1993/1993-079n.pdf;
+1000107;2007-01-31;1;1000700;http://www.arbitrage.be/public/n/1994/1994-039n.pdf;
+1000108;2007-01-31;1;1001310;http://www.arbitrage.be/public/n/1993/1993-079n.pdf;
+1000109;2007-01-31;1;1001310;http://www.arbitrage.be/public/n/1994/1994-039n.pdf;
+1000110;2011-05-10;1;1001310;http://www.const-court.be/public/n/2006/2006-172n.pdf;"Artt. 40, 41 en 42: geen schending (onder de uitgedrukte voorbehouden)."
+1000111;2007-01-31;1;1001093;http://www.arbitrage.be/public/n/1995/1995-011n.pdf;
+1000112;2007-01-31;1;1001066;http://www.arbitrage.be/public/n/1995/1995-040n.pdf;
+1000113;2007-01-31;1;1001066;http://www.arbitrage.be/public/n/1995/1995-056n.pdf;
+1000114;2007-01-31;1;1001066;http://www.arbitrage.be/public/n/1995/1995-086n.pdf;
+1000115;2007-01-31;1;1001066;http://www.arbitrage.be/public/n/1996/1996-020n.pdf;
+1000116;2007-01-31;1;1000942;http://www.arbitrage.be/public/n/1995/1995-041n.pdf;
+1000117;2007-01-31;1;1000942;http://www.arbitrage.be/public/n/1995/1995-056n.pdf;
+1000118;2007-01-31;1;1000735;http://www.arbitrage.be/public/n/1995/1995-035n.pdf;
+1000119;2007-01-31;1;1000723;http://www.arbitrage.be/public/n/1995/1995-042n.pdf;
+1000120;2007-01-31;1;1000406;http://www.arbitrage.be/public/n/1995/1995-086n.pdf;
+1000121;2007-01-31;1;1000406;http://www.arbitrage.be/public/n/1996/1996-020n.pdf;
+1000122;2007-01-31;1;1000406;http://www.arbitrage.be/public/n/2001/2001-022n.pdf;
+1000123;2011-09-07;1;1000406;http://www.const-court.be/public/n/2003/2003-082n.pdf;"Art. 60: schending."
+1000124;2011-09-07;1;1000406;http://www.const-court.be/public/n/2003/2003-155n.pdf;
+1000125;2007-01-31;1;1000397;http://www.arbitrage.be/public/n/1995/1995-041n.pdf;
+1000126;2007-01-31;1;1000036;http://www.arbitrage.be/public/n/1995/1995-061n.pdf;
+1000127;2007-01-31;1;1000182;http://www.arbitrage.be/public/n/1996/1996-005n.pdf;
+1000128;2007-01-31;1;1000237;http://www.arbitrage.be/public/n/1995/1995-072n.pdf;
+1000129;2007-01-31;1;1000738;http://www.arbitrage.be/public/n/2001/2001-019n.pdf;
+1000130;2007-01-31;1;1000465;http://www.arbitrage.be/public/n/1995/1995-085n.pdf;
+1000131;2007-01-31;1;1000465;http://www.arbitrage.be/public/n/1996/1996-006n.pdf;
+1000132;2007-01-31;1;1000465;http://www.arbitrage.be/public/n/1997/1997-080n.pdf;
+1000133;2007-01-31;1;1000465;http://www.arbitrage.be/public/n/1998/1998-023n.pdf;
+1000134;2007-01-31;1;1000465;http://www.arbitrage.be/public/n/1998/1998-052n.pdf;
+1000135;2007-01-31;1;1000465;http://www.arbitrage.be/public/n/1995/1995-088n.pdf;
+1000136;2007-01-31;1;1000465;http://www.arbitrage.be/public/n/2000/2000-084n.pdf;
+1000137;2007-01-31;1;1000465;http://www.arbitrage.be/public/n/2001/2001-050n.pdf;
+1000138;2011-05-24;1;1000465;http://www.const-court.be/public/n/2005/2005-009n.pdf;"Art. 304: geen schending."
+1000139;2007-01-31;1;1000465;http://www.arbitrage.be/public/n/1998/1998-130n.pdf;
+1000140;2007-01-31;1;1000681;http://www.arbitrage.be/public/n/1995/1995-040n.pdf;
+1000141;2007-01-31;1;1000681;http://www.arbitrage.be/public/n/1995/1995-086n.pdf;
+1000142;2007-01-31;1;1000681;http://www.arbitrage.be/public/n/1996/1996-024n.pdf;
+1000143;2007-01-31;1;1000681;http://www.arbitrage.be/public/n/1996/1996-020n.pdf;
+1000144;2007-01-31;1;1000164;http://www.arbitrage.be/public/n/1997/1997-039n.pdf;
+1000145;2007-01-31;1;1001245;http://www.arbitrage.be/public/n/1996/1996-024n.pdf;
+1000146;2007-01-31;1;1002023;http://www.arbitrage.be/public/n/1996/1996-030n.pdf;
+1000147;2007-01-31;1;1002023;http://www.arbitrage.be/public/n/1996/1996-042n.pdf;
+1000148;2007-01-31;1;1001611;http://www.arbitrage.be/public/n/1996/1996-055n.pdf;
+1000149;2007-01-31;1;1001602;http://www.arbitrage.be/public/n/1996/1996-024n.pdf;
+1000150;2007-01-31;1;1001602;http://www.arbitrage.be/public/n/1999/1999-055n.pdf;
+1000151;2007-01-31;1;1002716;http://www.arbitrage.be/public/n/1997/1997-039n.pdf;
+1000152;2007-01-31;1;1002231;http://www.arbitrage.be/public/n/1996/1996-076n.pdf;
+1000153;2007-01-31;1;1002602;http://www.arbitrage.be/public/n/1996/1996-076n.pdf;
+1000154;2011-08-01;1;1002341;http://www.const-court.be/public/n/2004/2004-061n.pdf;"Artt. 37, § 1, 38, § 2, en 39, § 2: geen schending."
+1000155;2007-01-31;1;1002839;http://www.arbitrage.be/public/n/1996/1996-041n.pdf;
+1000156;2009-01-19;1;1003788;http://www.arbitrage.be/public/n/1998/1998-120n.pdf;
+1000157;2011-09-19;1;1002838;http://www.const-court.be/public/n/2002/2002-083n.pdf;"Art. 3.2.5: geen schending."
+1000158;2009-01-19;1;1003968;http://www.arbitrage.be/public/n/1997/1997-002n.pdf;
+1000159;2009-01-19;1;1004146;http://www.arbitrage.be/public/n/1997/1997-042n.pdf;
+1000160;2009-01-19;1;1004164;http://www.arbitrage.be/public/n/1997/1997-039n.pdf;
+1000161;2008-03-05;1;1004147;http://www.arbitrage.be/public/n/1996/1996-049n.pdf;
+1000162;2008-03-05;1;1004147;http://www.arbitrage.be/public/n/1997/1997-034n.pdf;
+1000163;2011-05-24;1;1004147;http://www.const-court.be/public/n/2004/2004-185n.pdf;"Art. 30: geen schending."
+1000164;2011-09-07;1;1004147;http://www.const-court.be/public/n/2003/2003-058n.pdf;"Art. 40: geen schending."
+1000165;2011-09-07;1;1004147;http://www.const-court.be/public/n/2003/2003-126n.pdf;"Art. 40: geen schending."
+1000166;2011-05-11;1;1004147;http://www.const-court.be/public/n/2005/2005-100n.pdf;"Art. 39, § 2: vraag behoeft geen antwoord."
+1000167;2011-05-11;1;1004147;http://www.const-court.be/public/n/2005/2005-180n.pdf;
+1000168;2011-05-10;1;1004147;http://www.const-court.be/public/n/2006/2006-075n.pdf;"Artikel 39: schending."
+1000169;2011-05-10;1;1004147;http://www.const-court.be/public/n/2006/2006-126n.pdf;"Artikel 43:  geen schending
+
+"
+1000170;2011-05-10;1;1004147;http://www.const-court.be/public/n/2006/2006-146n.pdf;"Artikel 42, § 2, 2°, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, zoals gewijzigd bij het decreet van 8 juli 1997 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1997, schendt de artikelen 10 en 11 van de Grondwet in zoverre het op geen enkele wijze een vrijstelling van heffing
+mogelijk maakt voor de houders van zakelijke rechten, bedoeld in artikel 27 van hetzelfde decreet, op een gebouw dat krachtens het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten is beschermd als stads- en dorpsgezicht."
+1000171;2009-01-19;1;1004576;http://www.arbitrage.be/public/n/1997/1997-039n.pdf;
+1000172;2009-01-19;1;1004637;http://www.arbitrage.be/public/n/1998/1998-064n.pdf;
+1000173;2009-01-19;1;1004651;http://www.arbitrage.be/public/n/1997/1997-017n.pdf;
+1000174;2009-01-19;1;1004771;http://www.arbitrage.be/public/n/1997/1997-080n.pdf;
+1000175;2009-01-19;1;1004771;http://www.arbitrage.be/public/n/1998/1998-023n.pdf;
+1000176;2009-01-19;1;1004771;http://www.arbitrage.be/public/n/1998/1998-025n.pdf;
+1000177;2009-01-19;1;1004771;http://www.arbitrage.be/public/n/1998/1998-034n.pdf;
+1000178;2009-01-19;1;1004771;http://www.arbitrage.be/public/n/1998/1998-052n.pdf;
+1000179;2009-01-19;1;1004786;http://www.arbitrage.be/public/n/1998/1998-011n.pdf;
+1000180;2009-01-19;1;1004786;http://www.arbitrage.be/public/n/1999/1999-053n.pdf;
+1000181;2009-01-19;1;1004794;http://www.arbitrage.be/public/n/1997/1997-047n.pdf;
+1000182;2009-01-19;1;1004735;http://www.arbitrage.be/public/n/1998/1998-019n.pdf;
+1000183;2009-01-19;1;1004797;http://www.arbitrage.be/public/n/1998/1998-019n.pdf;
+1000184;2007-03-22;1;1005343;http://www.arbitrage.be/public/n/2001/2001-151n.pdf;
+1000185;2011-08-01;1;1005343;http://www.const-court.be/public/n/2004/2004-065n.pdf;"Art. 68: geen schending."
+1000186;2009-01-19;1;1005075;http://www.arbitrage.be/public/n/1998/1998-010n.pdf;
+1000187;2009-01-19;1;1005075;http://www.arbitrage.be/public/n/1998/1998-036n.pdf;
+1000188;2009-01-19;1;1005075;http://www.arbitrage.be/public/n/1998/1998-051n.pdf;
+1000189;2009-01-19;1;1005075;http://www.arbitrage.be/public/n/1998/1998-064n.pdf;
+1000190;2009-01-19;1;1005075;http://www.arbitrage.be/public/n/1998/1998-070n.pdf;
+1000191;2009-01-19;1;1005075;http://www.arbitrage.be/public/n/1998/1998-128n.pdf;
+1000192;2009-01-19;1;1005075;http://www.arbitrage.be/public/n/2002/2002-186n.pdf;
+1000193;2009-01-19;1;1005125;http://www.arbitrage.be/public/n/1998/1998-076n.pdf;
+1000194;2009-01-19;1;1005321;http://www.arbitrage.be/public/n/1998/1998-073n.pdf;
+1000195;2009-01-19;1;1005384;http://www.arbitrage.be/public/n/1998/1998-085n.pdf;
+1000196;2009-01-19;1;1005384;http://www.arbitrage.be/public/n/1998/1998-109n.pdf;
+1000197;2009-01-19;1;1005384;http://www.arbitrage.be/public/n/1998/1998-110n.pdf;
+1000198;2009-01-19;1;1005384;http://www.arbitrage.be/public/n/1999/1999-019n.pdf;
+1000199;2011-08-01;1;1005384;http://www.const-court.be/public/n/2004/2004-041n.pdf;"Art. 139: geen schending."
+1000200;2009-01-19;1;1005375;http://www.arbitrage.be/public/n/1998/1998-083n.pdf;
+1000201;2006-11-27;1;1005398;http://intra.vlaanderen.be/arbitragehof/1998-131.pdf;
+1000202;2009-01-19;1;1005637;http://www.arbitrage.be/public/n/1999/1999-041n.pdf;
+1000203;2007-02-14;1;1005498;http://www.arbitrage.be/public/n/1999/1999-040n.pdf;
+1000204;2011-05-11;1;1005498;http://www.const-court.be/public/n/2005/2005-158n.pdf;"Art. 99: onbevoegdheid."
+1000205;2009-01-19;1;1005575;http://www.arbitrage.be/public/n/1999/1999-082n.pdf;
+1000206;2009-01-19;1;1005915;http://www.arbitrage.be/public/n/1999/1999-018n.pdf;
+1000207;2009-01-19;1;1005899;http://www.arbitrage.be/public/n/1999/1999-109n.pdf;
+1000208;2009-01-19;1;1006085;http://www.arbitrage.be/public/n/1999/1999-118n.pdf;
+1000209;2009-01-19;1;1006103;http://www.arbitrage.be/public/n/1999/1999-124n.pdf;
+1000210;2009-01-19;1;1006181;http://www.arbitrage.be/public/n/1999/1999-133n.pdf;
+1000211;2009-01-19;1;1006214;http://www.arbitrage.be/public/n/1999/1999-126n.pdf;
+1000212;2009-01-19;1;1006214;http://www.arbitrage.be/public/n/2000/2000-025n.pdf;
+1000213;2009-01-19;1;1006231;http://www.arbitrage.be/public/n/1999/1999-110n.pdf;
+1000214;2009-01-19;1;1006215;http://www.arbitrage.be/public/n/2000/2000-013n.pdf;
+1000215;2009-01-19;1;1006291;http://www.arbitrage.be/public/n/2000/2000-036n.pdf;
+1000216;2009-01-19;1;1006291;http://www.arbitrage.be/public/n/2000/2000-076n.pdf;
+1000217;2009-01-19;1;1006291;http://www.arbitrage.be/public/n/2000/2000-089n.pdf;
+1000218;2009-01-19;1;1006291;http://www.arbitrage.be/public/n/2001/2001-050n.pdf;
+1000219;2009-01-19;1;1006293;http://www.arbitrage.be/public/n/2000/2000-034n.pdf;
+1000220;2011-09-07;1;1006420;http://www.const-court.be/public/n/2000/2000-028n.pdf;
+1000221;2009-01-19;1;1006420;http://www.arbitrage.be/public/n/2000/2000-093n.pdf;
+1000222;2009-01-19;1;1006420;http://www.arbitrage.be/public/n/2000/2000-127n.pdf;
+1000223;2011-09-07;1;1006420;http://www.const-court.be/public/n/2003/2003-081n.pdf;"Art. 56."
+1000224;2011-09-07;1;1006420;http://www.const-court.be/public/n/2003/2003-095n.pdf;"Art. 46: geen schending."
+1000225;2006-11-27;1;1006897;http://intra.vlaanderen.be/arbitragehof/2001-101.pdf;
+1000226;2009-01-19;1;1006639;http://www.arbitrage.be/public/n/2000/2000-124n.pdf;
+1000227;2011-05-10;1;1006659;http://www.const-court.be/public/n/2000/2000-009n.pdf;
+1000228;2011-05-10;1;1006659;http://www.const-court.be/public/n/2001/2001-033n.pdf;
+1000229;2011-05-10;1;1006834;http://www.const-court.be/public/n/2001/2001-070n.pdf;
+1000230;2007-09-18;1;1006669;http://www.arbitrage.be/public/n/2000/2000-086n.pdf;
+1000231;2011-09-19;1;1006669;http://www.const-court.be/public/n/2002/2002-057n.pdf;"Artt. 149 en 150: geen schending."
+1000232;2011-09-19;1;1006669;http://www.const-court.be/public/n/2002/2002-152n.pdf;"Artt. 149 en 150: geen schending."
+1000233;2011-09-19;1;1006669;http://www.const-court.be/public/n/2002/2002-170n.pdf;"Art. 158: geen schending."
+1000234;2011-09-07;1;1006669;http://www.const-court.be/public/n/2003/2003-154n.pdf;"Art. 151: geen schending."
+1000235;2011-05-24;1;1006669;http://www.const-court.be/public/n/2004/2004-136n.pdf;"Artt. 146 en 149: schending."
+1000236;2011-05-11;1;1006669;http://www.const-court.be/public/n/2005/2005-056n.pdf;"Art. 192bis: verwerping beroep."
+1000237;2011-05-11;1;1006669;http://www.const-court.be/public/n/2005/2005-156n.pdf;"Art. 146, 6°: geen schending."
+1000238;2011-05-10;1;1006669;http://www.const-court.be/public/n/2006/2006-081n.pdf;"Artikel 146: geen schending."
+1000239;2009-01-19;1;1006957;http://www.arbitrage.be/public/n/2001/2001-075n.pdf;
+1000240;2009-01-19;1;1006758;http://www.arbitrage.be/public/n/2001/2001-042n.pdf;
+1000241;2009-01-19;1;1006864;http://www.arbitrage.be/public/n/2001/2001-104n.pdf;
+1000242;2009-01-19;1;1007111;http://www.arbitrage.be/public/n/2000/2000-127n.pdf;
+1000243;2009-01-19;1;1007111;http://www.arbitrage.be/public/n/2001/2001-126n.pdf;
+1000244;2009-01-19;1;1007205;http://www.arbitrage.be/public/n/2001/2001-070n.pdf;
+1000245;2011-09-19;1;1007248;http://www.const-court.be/public/n/2002/2002-071n.pdf;
+1000246;2011-09-07;1;1008100;http://www.const-court.be/public/n/2003/2003-008n.pdf;
+1000247;2011-09-07;1;1008446;http://www.const-court.be/public/n/2003/2003-065n.pdf;"Artt. 3, 4, 6, 10 tot 13, 34, 80 en 81."
+1000248;2011-09-19;1;1008468;http://www.const-court.be/public/n/2002/2002-189n.pdf;"Art. XIII.2: vernietiging."
+1000249;2011-09-07;1;1008146;http://www.const-court.be/public/n/2003/2003-057n.pdf;"Artt. 2, 4, 8  9, 12, 13 en 14: gedeeltelijke vernietiging."
+1000250;2011-09-07;1;1008355;http://www.const-court.be/public/n/2003/2003-060n.pdf;
+1000251;2011-09-07;1;1008384;http://www.const-court.be/public/n/2003/2003-088n.pdf;"Art. 10: verwerping beroep."
+1000252;2011-09-07;1;1008500;http://www.const-court.be/public/n/2003/2003-094n.pdf;"Verwerping beroepen."
+1000253;2011-09-07;1;1008965;http://www.const-court.be/public/n/2003/2003-151n.pdf;"Verwerping beroep."
+1000254;2011-09-07;1;1009054;http://www.const-court.be/public/n/2003/2003-152n.pdf;"Verwerping beroep."
+1000255;2011-09-07;1;1009292;http://www.const-court.be/public/n/2003/2003-133n.pdf;Afstand.
+1000256;2011-09-07;1;1009657;http://www.const-court.be/public/n/2003/2003-131n.pdf;"Artt. III.1, § 1 en V.3, §§ 1 en 2: verwerping beroep."
+1000257;2011-08-01;1;1009623;http://www.const-court.be/public/n/2004/2004-021n.pdf;"Artt. 6 tot 11: verwerping beroep."
+1000258;2007-01-31;1;1009626;http://www.arbitrage.be/public/n/2004/2004-080n.pdf;
+1000259;2011-08-01;1;1009629;http://www.const-court.be/public/n/2004/2004-031n.pdf;"Verwerping beroep."
+1000260;2011-05-24;1;1009786;http://www.const-court.be/public/n/2004/2004-087n.pdf;"Artt. 6 en 7: verwerping beroepen."
+1000261;2011-05-24;1;1010126;http://www.const-court.be/public/n/2004/2004-145n.pdf;Vernietiging.
+1000262;2011-05-24;1;1010208;http://www.const-court.be/public/n/2004/2004-115n.pdf;"Art. 21: vernietiging."
+1000263;2011-05-23;1;1011514;http://www.const-court.be/public/n/2005/2005-029n.pdf;"Art 160: gedeeltelijke vernietiging."
+1000264;2011-05-23;1;1011514;http://www.const-court.be/public/n/2005/2005-044n.pdf;"Vernietigt in artikel 12, § 3, tweede lid, het woordonderdeel « hoofd » in het woord « hoofddoelstelling », alsook de woorden « en als aanvullende doelstelling : het uitstromen naar de arbeidsmarkt »."
+1000265;2011-05-10;1;1011533;http://www.const-court.be/public/n/2006/2006-087n.pdf;"Artt. 17 en 31: geen schending.
+"
+1000266;2011-05-24;1;1011528;http://www.const-court.be/public/n/2005/2005-014n.pdf;"Artt. 7, 8, 9 en 12: gedeeltelijke vernietiging."
+1000267;2011-05-10;1;1011528;http://www.const-court.be/public/n/2005/2005-046n.pdf;
+1000268;2011-05-24;1;1011530;http://www.const-court.be/public/n/2005/2005-007n.pdf;"Artt. 39 en 40: verwerping beroep."
+1000269;2011-05-24;1;1011715;http://www.const-court.be/public/n/2005/2005-032n.pdf;"Artt. 8, 10, 42 en 46: verwerping beroepen."
+1000270;2011-05-23;1;1012009;http://www.const-court.be/public/n/2005/2005-094n.pdf;"Artt. 53 en 58: verwerping beroep."
+1000272;2011-05-24;1;1011950;http://www.const-court.be/public/n/2005/2005-031n.pdf;Afstand.
+1000273;2011-05-17;1;1012053;http://www.const-court.be/public/n/2005/2005-132n.pdf;"Artt. 2 en 4: verwerping van het beroep.
+
+"
+1000274;2011-05-23;1;1012165;http://www.const-court.be/public/n/2005/2005-120n.pdf;"Art. 6: beroep verworpen."
+1000275;2011-05-17;1;1012949;http://www.const-court.be/public/n/2005/2005-147n.pdf;
+1000276;2011-05-11;1;1013087;http://www.const-court.be/public/n/2005/2005-154n.pdf;"Artt. II. 1, 13°, II. 78, II. 79, II. 80, II. 84, II. 89 en II. 90."
+1000277;2011-05-10;1;1013087;http://www.const-court.be/public/n/2006/2006-002n.pdf;
+1000278;2011-05-23;1;1013019;http://www.const-court.be/public/n/2005/2005-114n.pdf;"Het Hof vernietigt de artikelen 5, 2°, 14, 16, § 2, en 21 tot 28 en, voor zover zij betrekking hebben op de vergunning bedoeld in artikel 14, de artikelen 5, 3°, 15 en 20 van het Vlaamse decreet van 26 maart 2004 « houdende regeling van herstelmaatregelen voor de Vlaamse paardenwedrennen, houdende machtiging aan de Vlaamse Regering om mee te werken aan de oprichting van de vereniging zonder winstgevend doel ‘ Vlaamse Federatie voor Paardenwedrennen ’ en houdende wijziging en opheffing van sommige bepalingen van het
+Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen »."
+1000279;2011-05-11;1;1013174;http://www.const-court.be/public/n/2005/2005-173n.pdf;"Artt. 16, 18 en 22 tot 41: verwerping."
+1000280;2011-05-10;1;1013079;http://www.const-court.be/public/n/2006/2006-051n.pdf;"Artikel 2: Stellen van prejudiciële vragen aan het Hof van Justitie van de Europese Gemeenschappen."
+1000281;2011-05-10;1;1013468;http://www.const-court.be/public/n/2006/2006-039n.pdf;"Artt. 102 en 114: verwerping beroep."
+1000282;2011-05-17;1;1013072;http://www.const-court.be/public/n/2005/2005-025n.pdf;
+1000283;2011-05-17;1;1013072;http://www.const-court.be/public/n/2005/2005-150n.pdf;
+1000284;2011-05-17;1;1013326;http://www.const-court.be/public/n/2005/2005-128n.pdf;
+1000285;2011-05-17;1;1013380;http://www.const-court.be/public/n/2005/2005-152n.pdf;
+1000286;2011-05-11;1;1013286;http://www.const-court.be/public/n/2005/2005-157n.pdf;
+1000287;2011-05-11;1;1013300;http://www.const-court.be/public/n/2005/2005-180n.pdf;
+1000288;2011-05-11;1;1013475;http://www.const-court.be/public/n/2005/2005-105n.pdf;
+1000289;2011-05-11;1;1013475;http://www.const-court.be/public/n/2005/2005-185n.pdf;
+1000290;2011-05-10;1;1013598;http://www.const-court.be/public/n/2006/2006-056n.pdf;
+1000291;2011-05-10;1;1013611;http://www.const-court.be/public/n/2006/2006-041n.pdf;
+1000292;2011-05-10;1;1013611;http://www.const-court.be/public/n/2006/2006-058n.pdf;
+1000293;2011-05-10;1;1013949;http://www.const-court.be/public/n/2006/2006-011n.pdf;
+1000294;2011-05-10;1;1014337;http://www.const-court.be/public/n/2006/2006-133n.pdf;"Verwerping - later onderzoek."
+1000295;2011-05-10;1;1014337;http://www.const-court.be/public/n/2006/2006-189n.pdf;"Onbevoegdheid van het Hof."
+1000296;2007-01-31;1;1009250;http://www.arbitrage.be/public/n/2006/2006-152n.pdf;
+1000297;2011-09-07;1;1006420;http://www.const-court.be/public/n/2006/2006-198n.pdf;"Artikel 58: geen schending."
+1000298;2011-03-23;1;1013717;http://www.arbitrage.be/public/n/2007/2007-014n.pdf;"beroep tot vernietiging van artt. 176, § 1, 4°, en 176quinquies, § 1, 3°,  ingevoerd door art. 2 van het decreet van de Vlaamse Gemeenschap van 16 december 2005 houdende de oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Regulator voor de Media en houdende wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005."
+1000299;2011-03-23;1;1014164;http://www.const-court.be/public/n/2007/2007-014n.pdf;"Beroep tot vernietiging van artikel 2."
+1000300;2011-05-10;1;1005343;http://www.const-court.be/public/n/2007/2007-049n.pdf;"Het Hof vernietigt artikel 53, § 2, vijfde lid, zoals van toepassing vóór de inwerkingtreding van artikel 67 van het decreet van 21 november 2003 « houdende wijziging van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening en van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996 »;
+- handhaaft de gevolgen van de vernietigde bepaling voor de werken waarvan de uitvoering was aangevangen vóór 27 juli 2006."
+1000301;2011-03-23;1;1002550;http://www.arbitrage.be/public/n/2007/2007-044n.pdf;"Artikel 24 van het jachtdecreet schendt de artikelen 10 en 11 van de Grondwet."
+1000302;2010-10-14;1;1006986;http://www.const-court.be/public/n/1994/1994-088n.pdf;
+1000303;2010-10-14;1;1006986;http://www.const-court.be/public/n/1993/1993-089n.pdf;
+1000304;2010-10-14;1;1006986;http://www.const-court.be/public/n/1995/1995-003n.pdf;
+1000305;2010-10-14;1;1006986;http://www.const-court.be/public/n/1995/1995-004n.pdf;
+1000306;2010-10-14;1;1006986;http://www.const-court.be/public/n/1994/1994-026n.pdf;
+1000307;2010-10-14;1;1006986;http://www.const-court.be/public/n/1995/1995-005n.pdf;
+1000308;2010-10-14;1;1006986;http://www.const-court.be/public/n/1995/1995-006n.pdf;
+1000309;2010-10-14;1;1006986;http://www.const-court.be/public/n/1995/1995-007n.pdf;
+1000310;2010-10-14;1;1006986;http://www.const-court.be/public/n/1995/1995-008n.pdf;
+1000311;2010-10-14;1;1006986;http://www.const-court.be/public/n/1995/1995-009n.pdf;
+1000312;2010-10-14;1;1006986;http://www.const-court.be/public/n/1995/1995-010n.pdf;
+1000313;2010-10-14;1;1006986;http://www.const-court.be/public/n/1995/1995-017n.pdf;
+1000314;2010-10-14;1;1006986;http://www.const-court.be/public/n/1994/1994-011n.pdf;
+1000317;2010-10-14;1;1006986;http://www.const-court.be/public/n/1994/1994-090n.pdf;
+1000321;2012-01-18;1;1008445;http://www.const-court.be/public/n/1992/1992-056n.pdf;
+1000322;2007-06-13;1;1014346;http://www.arbitrage.be/public/n/2003/2003-073n.pdf;
+1000323;2007-06-13;1;1014336;http://www.arbitrage.be/public/n/2003/2003-073n.pdf;
+1000324;2007-06-15;1;1001880;http://www.arbitrage.be/public/n/1988/1988-058n.pdf;
+1000325;2011-03-23;1;1015538;http://www.arbitrage.be/public/n/2007/2007-104n.pdf;"Verwerping van de vordering tot schorsing van de artt. 6, 7, 8, 10, 14 en 16.
+
+"
+1000326;2011-03-23;1;1014158;http://www.arbitrage.be/public/n/2007/2007-149n.pdf;"Het Hof vernietigt de tabel vermeld in artikel 6, § 1, derde lid, die, bij artikel 2 van het decreet van het Vlaamse Gewest van 2 juni 2006
+tot wijziging van het provinciedecreet van 9 december 2005, als bijlage bij dat decreet is gevoegd; en handhaaft de gevolgen van de vernietigde bepaling voor wat betreft de provincieraadsverkiezingen die aan de bekendmaking van dit arrest zijn voorafgegaan."
+1000327;2011-03-23;1;1014621;http://www.arbitrage.be/public/n/2007/2007-149n.pdf;"Het Hof vernietigt de tabel vermeld in artikel 6, § 1, derde lid, die, bij artikel 2 van het decreet van het Vlaamse Gewest van 2 juni 2006
+tot wijziging van het provinciedecreet van 9 december 2005, als bijlage bij dat decreet is gevoegd; en handhaaft de gevolgen van de vernietigde bepaling voor wat betreft de provincieraadsverkiezingen die aan de bekendmaking van dit arrest zijn voorafgegaan."
+1000328;2011-05-24;1;1006669;http://www.const-court.be/public/n/2005/2005-014n.pdf;"Artt. 146, 149 en 153: gedeeltelijke vernietiging."
+1000329;2011-05-11;1;1006669;http://www.const-court.be/public/n/2005/2005-046n.pdf;"Art. 146, derde lid, en 149, § 1."
+1000330;2011-01-13;1;1006669;http://www.const-court.be/public/n/2008/2008-031n.pdf;"Artikel 198bis schendt de artikelen 10 en 11 van de Grondwet niet in de interpretatie volgens welke het in die bepaling bedoelde advies niet bindend is voor de herstelvorderende overheid."
+1000331;2011-05-10;1;1006669;http://www.const-court.be/public/n/2007/2007-071n.pdf;"Artikel 198bis, zoals ingevoegd bij artikel 11 van het decreet van 4 juni 2003, schendt de artikelen 10 en 11 van de Grondwet niet."
+1000332;2011-05-10;1;1006669;http://www.const-court.be/public/n/2007/2007-034n.pdf;"Artikel 198bis, zoals ingevoegd bij artikel 11 van het decreet van
+4 juni 2003 houdende wijziging van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, wat het handhavingsbeleid betreft, schendt de artikelen 10 en 11 van de Grondwet in zoverre het de mogelijkheid voor de rechter om het advies te vragen van de Hoge Raad voor het Herstelbeleid beperkt tot «vorderingen voor inbreuken, die dateren van voor 1 mei 2000»."
+1000333;2011-01-21;1;1004147;http://www.const-court.be/public/n/2008/2008-044n.pdf;"Artikel 36 schendt noch artikel 11 van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten, noch de artikelen 10 en 11 van de Grondwet, doordat het het kadastraal inkomen in aanmerking neemt voor het berekenen van het bedrag van de leegstandheffing."
+1000334;2011-01-21;1;1000157;http://www.const-court.be/public/n/2008/2008-042n.pdf;"Artikel 6, zoals gewijzigd bij het decreet van 23 februari 1994, schendt de artikelen 10 en 11 van de Grondwet niet."
+1000335;2008-03-05;1;1000160;http://www.arbitrage.be/public/n/2008/2008-042n.pdf;
+1000336;2011-01-21;1;1015317;http://www.const-court.be/public/n/2008/2008-041n.pdf;"Het beroep tot vernietiging van de artikelen 21 tot 30 en 102 wordt verworpen."
+1000337;2011-01-21;1;1000697;http://www.const-court.be/public/n/2008/2008-036n.pdf;"De artikelen 22, tweede lid, en 39 schenden niet de artikelen 12 en 14 van de Grondwet, al dan niet in samenhang gelezen met artikel 7 van het Europees Verdrag voor de rechten van de mens en artikel 15 van het Internationaal Verdrag inzake burgerrechten en politieke rechten."
+1000338;2011-01-21;1;1000034;http://www.const-court.be/public/n/2008/2008-036n.pdf;"Artt. 13 en 56: geen schending."
+1000339;2011-01-21;1;1004147;http://www.const-court.be/public/n/2008/2008-032n.pdf;"Artikel 25 schendt de artikelen 10 en 11 van de Grondwet niet."
+1000340;2011-05-10;1;1011528;http://www.const-court.be/public/n/2008/2008-031n.pdf;"Betreft artikel 11."
+1000341;2011-01-21;1;1005343;http://www.const-court.be/public/n/2008/2008-029n.pdf;"Artikel 2 schendt niet de artikelen 10, 11 en 16 van de Grondwet, in samenhang gelezen met artikel 1 van het Eerste Aanvullend Protocol bij het Europees Verdrag voor de rechten van de mens, in zoverre de afschaffing van de opvullingsregel niet werd voorafgegaan door of gepaard ging met een openbaar onderzoek en hierbij niet werd voorzien in schadevergoeding, onverminderd de toepassing van artikel 37 van de stedenbouwwet (thans artikel 35 van het voormelde decreet betreffende de ruimtelijke ordening)."
+1000342;2011-03-22;1;1001610;http://www.const-court.be/public/n/2008/2008-026n.pdf;"Prejudiciële vraag over artikel 69 behoeft geen antwoord."
+1000343;2011-03-22;1;1000063;http://www.const-court.be/public/n/2008/2008-026n.pdf;"Betreft artikel 35quater, § 1, 2°: prejudiciële vraag behoeft geen antwoord."
+1000344;2011-01-21;1;1014591;http://www.const-court.be/public/n/2008/2008-020n.pdf;Afstand.
+1000345;2011-01-21;1;1014164;http://www.const-court.be/public/n/2008/2008-019n.pdf;Afstand.
+1000346;2011-01-21;1;1014930;http://www.const-court.be/public/n/2008/2008-015n.pdf;"Gedeeltelijke vernietiging (art. 19, § 1, in zoverre het niet voorziet in de schriftelijke toestemming van de zorggebruiker, art. 19, § 4, 2° en 3°, art. 43, § 1, tweede lid) - Verwerping van het beroep onder voorbehoud van interpretatie (art. 19, § 4, 1°) - Verwerping van het beroep"
+1000347;2011-01-13;1;1006669;http://www.const-court.be/public/n/2008/2008-059n.pdf;"Artikel 149 schendt de bevoegdheidverdelende regels niet.
+Diezelfde bepaling schendt de artikelen 10 en 11 van de Grondwet, in samenhang gelezen met artikel 6 van het Europees Verdrag voor de rechten van de mens, niet."
+1000349;2011-01-21;1;1002802;http://www.const-court.be/public/n/2008/2008-062n.pdf;"Afhankelijk van de interpretatie al dan niet schending."
+1000350;2011-01-21;1;1000699;http://www.const-court.be/public/n/2008/2008-088n.pdf;"De artikelen 21, § 6, 1°, en 33ter, § 1, 1°, a), zoals zij van toepassing waren voor de aanslagjaren 2003 en 2004, schenden de artikelen 10, 11 en 172 van de Grondwet niet, in zoverre zij, voor de heffingsplichtige aan wie geen nutriëntenhalte werd toegekend, niet voorzien in een vrijstelling van de superheffing voor de eerste 300 kg difosforpentoxide indien zijn mestproductie die hoeveelheid overschrijdt."
+1000351;2011-01-21;1;1008191;http://www.const-court.be/public/n/2008/2008-085n.pdf;"Artikel 25 schendt artikel 92bis, § 2, c), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen niet."
+1000352;2011-01-21;1;1000034;http://www.const-court.be/public/n/2008/2008-082n.pdf;"Artt. 13, § 1 en 56, 1°: geen schending."
+1000353;2011-01-21;1;1005915;http://www.const-court.be/public/n/2008/2008-082n.pdf;"Artikel 14, in samenhang gelezen met artikel 58, § 1, 1°, eerste streepje, van hetzelfde decreet, schendt de artikelen 12 en 14 van de Grondwet."
+1000354;2011-01-13;1;1006669;http://www.const-court.be/public/n/2008/2008-082n.pdf;"Artikel 146, vierde lid, in samenhang gelezen met artikel 145bis van hetzelfde decreet, schendt noch de artikelen 12 en 14, noch de artikelen 10 en 11 van de Grondwet, al dan niet in samenhang gelezen met artikel 7 van het Europees Verdrag voor de rechten van de mens en met artikel 15 van het Internationaal Verdrag inzake burgerrechten en politieke rechten."
+1000355;2011-03-22;1;1000679;http://www.const-court.be/public/n/2008/2008-082n.pdf;"Artikel 44, § 1, 2, van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedenbouw, artikel 42, § 1, 2°, van het decreet van het Vlaamse Gewest betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, en artikel 99, § 1, eerste lid, 4°, en vijfde lid, van het decreet van het Vlaamse Gewest van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, schenden niet de artikelen 12 en 14 van de Grondwet, al dan niet in samenhang gelezen met de artikelen 10 en 11 van de Grondwet, met artikel 7 van het Europees Verdrag voor de rechten van de mens en met artikel 15 van het Internationaal Verdrag inzake burgerrechten en politieke rechten."
+1000356;2011-05-10;1;1005343;http://www.const-court.be/public/n/2008/2008-082n.pdf;"Artikel 44, § 1, 2, van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedenbouw, artikel 42, § 1, 2°, van het decreet van het Vlaamse Gewest betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, en artikel 99, § 1, eerste lid, 4°, en vijfde lid, van het decreet van het Vlaamse Gewest van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, schenden niet de artikelen 12 en 14 van de Grondwet, al dan niet in samenhang gelezen met de artikelen 10 en 11 van de Grondwet, met artikel 7 van het Europees Verdrag voor de rechten van de mens en met artikel 15 van het Internationaal Verdrag inzake burgerrechten en politieke rechten."
+1000357;2011-01-21;1;1000699;http://www.const-court.be/public/n/2008/2008-099n.pdf;"Artikel 33ter, § 1, 1°, c), in de versie die van toepassing was op 9 augustus 2001, schendt de artikelen 10, 11 en 23 van de Grondwet niet."
+1000358;2011-03-22;1;1015538;http://www.arbitrage.be/public/n/2008/2008-101n.pdf;"Het Hof:
+1. Vernietigt :
+- artikel 92, § 1, eerste lid, 6°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, gewijzigd bij artikel 6 van het decreet van 15 december 2006;
+- de in de voorlaatste zin van artikel 92, § 1, eerste lid, 3°, van hetzelfde decreet vervatte bewoordingen « bij gebrek aan een negatieve evaluatie door de verhuurder van de huurder van een sociale woning ten aanzien van zijn verplichtingen, vermeld in § 3 » en de laatste zin van dezelfde bepaling;
+2. Verwerpt de beroepen voor het overige onder voorbehoud van de interpretatie vermeld in B.35 en onder voorbehoud dat de verplichting « de bereidheid [te] tonen om Nederlands aan te leren » en de sancties die eraan zijn verbonden, in die zin worden geïnterpreteerd dat zij niet van toepassing zijn op de kandidaat-huurders of huurders van in het voormelde decreet bedoelde sociale woningen die zijn gelegen in de rand- en taalgrensgemeenten, en die de taalfaciliteiten wensen te genieten."
+1000359;2011-05-11;1;1005498;http://www.const-court.be/public/n/2008/2008-101n.pdf;"Het Hof vernietigt :
+- artikel 92, § 1, eerste lid, 6°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, gewijzigd bij artikel 6 van het decreet van 15 december 2006;
+- de in de voorlaatste zin van artikel 92, § 1, eerste lid, 3°, van hetzelfde decreet vervatte bewoordingen « bij gebrek aan een negatieve evaluatie door de verhuurder van de huurder van een sociale woning ten aanzien van zijn verplichtingen, vermeld in § 3 » en de laatste zin van dezelfde bepaling;
+en verwerpt de beroepen voor het overige onder voorbehoud van de interpretatie vermeld in B.35 en onder voorbehoud dat de verplichting « de bereidheid [te] tonen om Nederlands aan te leren » en de sancties die eraan zijn verbonden, in die zin worden geïnterpreteerd dat zij niet van toepassing zijn op de kandidaat-huurders of huurders van in het voormelde decreet bedoelde sociale woningen die zijn gelegen in de rand- en taalgrensgemeenten, en die de taalfaciliteiten wensen te genieten."
+1000360;2011-03-22;1;1015486;http://www.arbitrage.be/public/n/2008/2008-105n.pdf;"Artikel 21: verwerping beroep."
+1000362;2011-05-24;1;1000034;http://www.const-court.be/public/n/2008/2008-121n.pdf;"Artikel 48, § 2, 15°: verwerping beroep."
+1000363;2011-03-22;1;1015317;http://www.arbitrage.be/public/n/2008/2008-121n.pdf;"Betreft artikel 46."
+1000364;2011-01-13;1;1006669;http://www.const-court.be/public/n/2008/2008-188n.pdf;"Artikel 146, vierde lid, in samenhang gelezen met artikel 145bis van hetzelfde decreet, schendt noch de artikelen 10 en 11, noch de artikelen 12 en 14 van de Grondwet, al dan niet in samenhang gelezen met artikel 7 van het Europees Verdrag voor de rechten van de mens en met artikel 15 van het Internationaal Verdrag inzake burgerrechten en politieke rechten.
+- Artikel 198bis, zoals ingevoegd bij artikel 11 van het decreet van 4 juni 2003, schendt de artikelen 10 en 11 van de Grondwet niet"
+1000365;2011-05-24;1;1002802;http://www.const-court.be/public/n/2008/2008-187n.pdf;"Artikel 44: schending of geen schending - afhankelijk van de interpretatie."
+1000366;2011-03-22;1;1000157;http://www.arbitrage.be/public/n/2008/2008-166n.pdf;"Artikel 5, § 1, schendt niet de artikelen 10 en 11 van de Grondwet, al dan niet in samenhang gelezen met de artikelen 6.1 en 14 van het Europees Verdrag voor de rechten van de mens."
+1000367;2011-03-22;1;1008404;http://www.arbitrage.be/public/n/2008/2008-166n.pdf;"Artikel 7 schendt niet de artikelen 10 en 11 van de Grondwet, al dan niet in samenhang gelezen met de artikelen 6.1 en 14 van het Europees Verdrag voor de rechten van de mens."
+1000368;2011-05-24;1;1002802;http://www.const-court.be/public/n/2008/2008-112n.pdf;"Artikel 44: schending of geen schending - afhankelijk van de interpretatie."
+1000369;2011-01-13;1;1006669;http://www.const-court.be/public/n/2009/2009-005n.pdf;"Artikel 153, tweede lid, zoals ingevoegd bij het decreet van 4 juni 2003, schendt de artikelen 10 en 11 van de Grondwet niet."
+1000370;2011-05-10;1;1011528;http://www.const-court.be/public/n/2009/2009-005n.pdf;
+1000371;2011-01-21;1;1000679;http://www.const-court.be/public/n/2009/2009-010n.pdf;
+1000372;2009-01-16;1;1001067;http://www.arbitrage.be/public/n/2009/2009-010n.pdf;
+1000373;2009-01-16;1;1000680;http://www.arbitrage.be/public/n/2009/2009-010n.pdf;
+1000374;2011-05-24;1;1000679;http://www.const-court.be/public/n/2004/2004-117n.pdf;"Art. 74: geen schending."
+1000375;2010-09-28;1;1000063;http://www.const-court.be/public/n/1992/1992-048n.pdf;
+1000376;2010-09-28;1;1000063;http://www.const-court.be/public/n/1992/1992-059n.pdf;
+1000377;2011-09-07;1;1000063;http://www.const-court.be/public/n/2003/2003-171n.pdf;"Art. 35quinquies decies: geenschending."
+1000378;2011-05-23;1;1000063;http://www.const-court.be/public/n/2005/2005-067n.pdf;"- In de interpretatie dat enkel bij toepassing van artikel 35septies van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging hemelwater in rekening wordt gebracht voor de berekening van de heffing, schendt die bepaling de artikelen 10 en 11 van de Grondwet.
+- In de interpretatie dat ook bij toepassing van artikel 35quater van dezelfde wet hemelwater in rekening wordt gebracht voor de berekening van de heffing, schendt het voormelde artikel 35septies de artikelen 10 en 11 van de Grondwet niet."
+1000379;2010-09-28;1;1000063;http://www.const-court.be/public/n/2001/2001-027n.pdf;
+1000380;2009-01-16;1;1012560;http://www.arbitrage.be/public/n/2001/2001-072n.pdf;
+1000381;2009-01-16;1;1012560;http://www.arbitrage.be/public/n/1994/1994-008n.pdf;
+1000382;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-030n.pdf;
+1000383;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-022n.pdf;
+1000384;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-023n.pdf;
+1000385;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-021n.pdf;
+1000386;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-020n.pdf;
+1000387;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-026n.pdf;
+1000388;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-019n.pdf;
+1000389;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-018n.pdf;
+1000390;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-016n.pdf;
+1000391;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-015n.pdf;
+1000392;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-014n.pdf;
+1000393;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-013n.pdf;
+1000394;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-012n.pdf;
+1000395;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1986/1986-010n.pdf;
+1000396;2009-01-19;1;1000236;http://www.arbitrage.be/public/n/1995/1995-072n.pdf;
+1000397;2009-01-19;1;1003118;http://www.arbitrage.be/public/n/1986/1986-027n.pdf;
+1000398;2009-01-19;1;1005069;http://www.arbitrage.be/public/n/1989/1989-003n.pdf;
+1000399;2009-01-19;1;1000158;http://www.arbitrage.be/public/n/2001/2001-051n.pdf;
+1000400;2011-05-10;1;1000699;http://www.const-court.be/public/n/2007/2007-067n.pdf;"Artikel 25, §§ 4 en 5, in samenhang gelezen met artikel 37, § 3, 1° en 2°, van het decreet van het Vlaamse Gewest van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen schendt de artikelen 10 en 11 van de Grondwet, in samenhang gelezen met het algemeen rechtsbeginsel non bis in idem, in zoverre aan  personen wegens een gedraging die inbreuken met dezelfde essentiële bestanddelen op bepalingen van het voormelde decreet uitmaakt, achtereenvolgens een administratieve geldboete met een strafrechtelijk karakter en een strafsanctie kunnen worden opgelegd."
+1000401;2011-05-10;1;1000699;http://www.const-court.be/public/n/2006/2006-031n.pdf;"Art. 33bis: geen schending."
+1000402;2009-01-19;1;1000166;http://www.arbitrage.be/public/n/1992/1992-065n.pdf;
+1000403;2011-09-19;1;1000388;http://www.const-court.be/public/n/2002/2002-087n.pdf;
+1000404;2011-03-23;1;1000392;http://www.const-court.be/public/n/2007/2007-001n.pdf;Afstand.
+1000405;2009-01-19;1;1002753;http://www.arbitrage.be/public/n/1993/1993-051n.pdf;
+1000406;2009-01-19;1;1001541;http://www.arbitrage.be/public/n/1994/1994-031n.pdf;
+1000407;2009-01-19;1;1000390;http://www.arbitrage.be/public/n/1994/1994-023n.pdf;
+1000408;2009-01-19;1;1000149;http://www.arbitrage.be/public/n/1996/1996-001n.pdf;
+1000409;2009-01-19;1;1002716;http://www.arbitrage.be/public/n/1998/1998-131n.pdf;
+1000410;2011-03-23;1;1003993;http://www.arbitrage.be/public/n/2007/2007-123n.pdf;"Prejudiciële vraag betreffende artikel 26, § 4."
+1000411;2011-05-11;1;1004147;http://www.const-court.be/public/n/2007/2007-085n.pdf;"Betreft prejudiciële vraag over art. 39 van het Vlaamse decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, zoals gewijzigd door het decreet van 30 juni 2000, en vóór de wijziging ervan door het decreet van 24 juni 2005."
+1000412;2009-01-19;1;1005343;http://www.arbitrage.be/public/n/1998/1998-099n.pdf;
+1000413;2011-09-07;1;1005343;http://www.const-court.be/public/n/2003/2003-101n.pdf;"Art. 53, § 2: geen schending."
+1000414;2011-05-10;1;1005343;http://www.const-court.be/public/n/2006/2006-074n.pdf;"Artikel 53, § 2: schending."
+1000415;2011-05-10;1;1005343;http://www.const-court.be/public/n/2007/2007-069n.pdf;"Artikel 53, § 2, eerste lid, in de redactie vóór de wijziging ervan bij het decreet van 21 november 2003, schendt de artikelen 10 en 11 van de Grondwet, wanneer het in die zin wordt geïnterpreteerd dat het een onderscheid maakt op grond van de aard van de stukken waarvan aan de aanvrager van een vergunning kennis moet worden gegeven naargelang het beroep bij de Vlaamse Regering door de gemachtigde ambtenaar dan wel door de aanvrager of door het college van burgemeester en schepenen wordt ingesteld."
+1000416;2009-01-19;1;1005392;http://www.arbitrage.be/public/n/1998/1998-128n.pdf;
+1000417;2011-05-11;1;1005498;http://www.const-court.be/public/n/2007/2007-062n.pdf;"Betreft beroep tot vernietiging van artikel 43."
+1000418;2011-05-10;1;1006834;http://www.const-court.be/public/n/2007/2007-139n.pdf;"Prejudiciële vraag betreffende artikel 29."
+1000419;2011-09-07;1;1006669;http://www.const-court.be/public/n/2003/2003-004n.pdf;"Artt. 149 en 150: geen schending."
+1000420;2011-05-10;1;1006659;http://www.const-court.be/public/n/2009/2009-011n.pdf;
+1000421;2011-01-19;1;1013079;http://www.const-court.be/public/n/2009/2009-011n.pdf;"Het Hof:
+- vernietigt artikel 4, § 2ter, van het decreet van de Vlaamse Gemeenschap van 30 maart 1999 houdende de organisatie van de zorgverzekering, zoals ingevoegd bij artikel 2 van het decreet van 30 april 2004 houdende wijziging van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering;
+- handhaaft de gevolgen van de vernietigde bepaling totdat nieuwe bepalingen in werking treden, en uiterlijk tot 31 december 2009."
+1000422;2009-01-22;1;1008352;http://www.arbitrage.be/public/n/2008/2008-166n.pdf;
+1000423;2011-08-01;1;1009054;http://www.const-court.be/public/n/2004/2004-056n.pdf;"Het decreet van het Vlaamse Gewest van 29 maart 2002 houdende invoering van het nultarief inzake het kijk- en luistergeld schendt de artikelen 10 en 11 van de Grondwet niet."
+1000424;2011-05-24;1;1009529;http://www.const-court.be/public/n/2004/2004-080n.pdf;"Art. 2: verwerping beroep."
+1000425;2011-05-24;1;1012009;http://www.const-court.be/public/n/2004/2004-171n.pdf;"Artt. 26 tot 29: verwerping beroep."
+1000426;2011-05-11;1;1013665;http://www.const-court.be/public/n/2005/2005-178n.pdf;"Art. 11: verwerping beroep."
+1000427;2011-03-23;1;1013968;http://www.arbitrage.be/public/n/2007/2007-033n.pdf;"Verwerping van het beroep tot vernietiging van artikel 3."
+1000428;2011-05-10;1;1014337;http://www.const-court.be/public/n/2006/2006-122n.pdf;"Klaarblijkelijke niet-bevoegdheid."
+1000429;2011-05-10;1;1014337;http://www.const-court.be/public/n/2007/2007-053n.pdf;"Beroep tot vernietiging van de artikelen 22 tot 24 en 49."
+1000430;2011-03-23;1;1014664;http://www.arbitrage.be/public/n/2007/2007-138n.pdf;"Betreft beroep tot vernietiging van de artikelen 3, 4 en 5."
+1000431;2011-01-19;1;1017269;http://www.const-court.be/public/n/2009/2009-058n.pdf;"Het beroep wordt verworpen."
+1000432;2011-01-19;1;1007552;http://www.const-court.be/public/n/2009/2009-052n.pdf;"Artikel 37, § 2, zoals vervangen bij artikel 50 van het decreet van 5 juli 2002 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2002, schendt noch de bevoegdheidverdelende regels, noch artikel 170 van de Grondwet."
+1000433;2009-03-23;1;1009664;http://www.arbitrage.be/public/n/2009/2009-052n.pdf;
+1000434;2011-01-19;1;1005498;http://www.const-court.be/public/n/2009/2009-047n.pdf;"Artikel 5, § 1, schendt de bevoegdheidverdelende regels niet."
+1000435;2009-03-30;1;1003229;http://www.arbitrage.be/public/n/1998/1998-139n.pdf;
+1000436;2011-01-21;1;1001610;http://www.const-court.be/public/n/2001/2001-027n.pdf;
+1000437;2009-04-01;1;1007552;http://www.arbitrage.be/public/n/2005/2005-025n.pdf;
+1000438;2011-05-23;1;1000392;http://www.const-court.be/public/n/2005/2005-029n.pdf;"Art. 130: gedeeltelijke vernietiging."
+1000440;2011-01-19;1;1017082;http://www.const-court.be/public/n/2009/2009-123n.pdf;"Het Hof:
+- vernietigt artikel 16, § 3, doch enkel in zoverre het onder de daarin opgesomde discriminatiegronden niet de syndicale overtuiging beoogt;
+- vernietigt in artikel 27, § 1, de woorden « bij voorbaat »;
+- verwerpt het beroep voor het overige."
+1000442;2011-01-19;1;1007518;http://www.const-court.be/public/n/2009/2009-178n.pdf;"De artikelen 18 en 31, 1°, schenden de artikelen 10 en 11 van de Grondwet in zoverre zij terugwerkende kracht hebben."
+1000443;2010-05-12;1;1001310;http://www.const-court.be/public/n/2009/2009-144n.pdf;
+1000444;2011-01-19;1;1005915;http://www.const-court.be/public/n/2009/2009-090n.pdf;"Artikel 44 schendt de artikelen 10 en 11 van de Grondwet niet."
+1000445;2011-01-19;1;1002341;http://www.const-court.be/public/n/2009/2009-081n.pdf;"Artikel 31, § 2, van het decreet van het Vlaamse Gewest van 22 februari 1995 betreffende de bodemsanering schendt de artikelen 10 en 11 van de Grondwet niet."
+1000446;2011-01-13;1;1017476;http://www.const-court.be/public/n/2010/2010-052n.pdf;"Verwerping van het beroep."
+1000447;2011-01-13;1;1017383;http://www.const-court.be/public/n/2010/2010-046n.pdf;"Het Hof beslist dat het beroep tot vernietiging van de artikelen 46 tot 56 van het Vlaamse decreet van 19 december 2008 houdende bepalingen tot begeleiding van de begroting 2009 zal worden onderzocht dan wel van de rol geschrapt naargelang de artikelen 116 tot 125 van het Vlaamse decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010 al dan niet worden vernietigd."
+1000448;2011-01-13;1;1017658;http://www.const-court.be/public/n/2010/2010-044n.pdf;Verwerping.
+1000450;2011-01-13;1;1001628;http://www.const-court.be/public/n/2010/2010-025n.pdf;"Artikel 2, 2°, zoals gewijzigd bij artikel 3 van het decreet van 8 december 1998 houdende diverse bepalingen naar aanleiding van de begrotingscontrole 1998, schendt niet artikel 127, § 1, eerste lid, 1°, van de Grondwet, in samenhang gelezen met artikel 4, 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen."
+1000451;2010-05-12;1;1006464;http://www.const-court.be/public/n/2010/2010-025n.pdf;
+1000452;2011-01-13;1;1008510;http://www.const-court.be/public/n/2010/2010-015n.pdf;"Artikel 50 van het Wetboek der successierechten, zoals vervangen bij artikel 45 van het decreet van het Vlaamse Gewest van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, schendt de artikelen 10, 11 en 172 van de Grondwet niet doordat het voor de vererving tussen een stiefgrootouder en een stiefkleinkind wiens moeder niet vooraf overleden is, niet het tarief voor een vererving in de rechte lijn toepasselijk maakt."
+1000453;2011-01-13;1;1017383;http://www.const-court.be/public/n/2010/2010-007n.pdf;"Art. 96, tweede streepje: verwerping van het beroep."
+1000454;2011-01-13;1;1004147;http://www.const-court.be/public/n/2010/2010-004n.pdf;"Artikel 25 van het Vlaamse decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, zoals gewijzigd bij artikel 3 van het decreet van 7 mei 2004, schendt artikel 170, § 4, van de Grondwet niet."
+1000455;2011-01-13;1;1018526;http://www.const-court.be/public/n/2010/2010-095n.pdf;"Het Hof schorst, in zoverre zij van toepassing zijn op de Franstalige scholen en de afdelingen ervan in de zes randgemeenten bedoeld in artikel 7 van de gecoördineerde wetten van 18 juli 1966 op het gebruik van de talen in bestuurszaken :
+a) artikel 2, eerste lid, in zoverre het verwijst naar artikel 62, § 1, 7°, van het decreet basisonderwijs van 25 februari 1997, alsmede artikel 2, tweede lid, 2°;
+b) artikel 2, eerste lid, in zoverre het verwijst naar de artikelen 44, 44bis en 62, § 1, 9°, van het voormelde decreet van 25 februari 1997, alsmede artikel 2, tweede lid, 1° en 3°, doch enkel in zoverre die bepalingen niet voorzien in een overgangsperiode tijdens welke de schoolbesturen
+van de Franstalige scholen in de randgemeenten een afwijking van de ontwikkelingsdoelen en eindtermen en de goedkeuring van hun leerplannen kunnen verkrijgen."
+1000456;2011-01-13;1;1018245;http://www.const-court.be/public/n/2010/2010-094n.pdf;"- Artikel 6.1.1, vierde lid, schendt artikel 16 van de Grondwet, in samenhang gelezen met artikel 1 van het Eerste Aanvullend Protocol bij het Europees Verdrag voor de rechten van de mens, niet.
+- Artikel 6.1.1, derde en vierde lid, en artikel 6.1.2 schenden artikel 23, derde lid, 4°, van de Grondwet niet.
+- Artikel 6.1.1, derde en vierde lid, schendt de artikelen 10 en 11 van de Grondwet niet."
+1000457;2011-01-13;1;1017900;http://www.const-court.be/public/n/2010/2010-093n.pdf;"Het beroep tot vernietiging van de artikelen 1.2, eerste lid, 20°, g), en 3.2.12 wordt verworpen."
+1000458;2010-09-10;1;1005384;http://www.const-court.be/public/n/2010/2010-095n.pdf;
+1000459;2011-01-13;1;1006669;http://www.const-court.be/public/n/2010/2010-086n.pdf;"Het beroep tot vernietiging van artikel 130, zoals gewijzigd bij artikel 36 van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid, wordt verworpen."
+1000460;2010-09-10;1;1017905;http://www.const-court.be/public/n/2010/2010-086n.pdf;
+1000461;2010-09-10;1;1016445;http://www.const-court.be/public/n/2010/2010-083n.pdf;
+1000462;2011-01-13;1;1002838;http://www.const-court.be/public/n/2010/2010-062n.pdf;"Artikel 16.6.3, § 2, zoals ingevoegd bij het decreet van 21 december 2007 tot aanvulling van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid met een titel XVI « Toezicht, handhaving en veiligheidsmaatregelen », schendt niet de bevoegdheidverdelende regels, noch de artikelen 12 en 14 van de Grondwet, al dan niet in samenhang gelezen met de artikelen 10 en 11 van de Grondwet en met artikel 7 van het Europees Verdrag voor de rechten van de mens en met artikel 15 van het Internationaal Verdrag inzake burgerrechten en politieke rechten, noch de artikelen 10 en 11 van de Grondwet."
+1000463;2010-09-10;1;1016621;http://www.const-court.be/public/n/2010/2010-062n.pdf;
+1000464;2011-01-13;1;1006420;http://www.const-court.be/public/n/2010/2010-061n.pdf;"Artikel 56 schendt niet de artikelen 10 en 11 van de Grondwet, in samenhang gelezen met artikel 6.2 van het Europees Verdrag voor de rechten van de mens en met artikel 14.2 van het Internationaal Verdrag inzake burgerrechten en politieke rechten."
+1000465;2010-09-10;1;1013300;http://www.const-court.be/public/n/2010/2010-004n.pdf;
+1000466;2010-09-10;1;1005575;http://www.const-court.be/public/n/2010/2010-064n.pdf;
+1000467;2011-05-10;1;1000063;http://www.const-court.be/public/n/2006/2006-080n.pdf;"Artt. 1, vierde lid, 35bis, 35ter en 35sexies: geen schending."
+1000468;2010-09-28;1;1000063;http://www.const-court.be/public/n/2006/2006-143n.pdf;
+1000469;2010-09-28;1;1000063;http://www.const-court.be/public/n/1993/1993-024n.pdf;
+1000470;2010-09-28;1;1000063;http://www.const-court.be/public/n/1993/1993-079n.pdf;
+1000471;2010-09-28;1;1000063;http://www.const-court.be/public/n/1994/1994-039n.pdf;
+1000472;2010-09-28;1;1000063;http://www.const-court.be/public/n/1990/1990-031n.pdf;
+1000473;2010-09-28;1;1000063;http://www.const-court.be/public/n/1991/1991-033n.pdf;
+1000474;2010-09-28;1;1000063;http://www.const-court.be/public/n/1996/1996-063n.pdf;
+1000475;2010-09-28;1;1000063;http://www.const-court.be/public/n/2002/2002-085n.pdf;
+1000476;2010-09-28;1;1000063;http://www.const-court.be/public/n/2001/2001-019n.pdf;
+1000477;2010-09-28;1;1000063;http://www.const-court.be/public/n/1988/1988-047n.pdf;
+1000478;2010-09-28;1;1000063;http://www.const-court.be/public/n/1988/1988-055n.pdf;
+1000479;2010-09-29;1;1009290;http://www.const-court.be/public/n/1992/1992-072n.pdf;
+1000480;2010-09-29;1;1009290;http://www.const-court.be/public/n/1997/1997-040n.pdf;
+1000481;2010-09-29;1;1009290;http://www.const-court.be/public/n/1997/1997-045n.pdf;
+1000482;2010-09-29;1;1009290;http://www.const-court.be/public/n/1999/1999-076n.pdf;
+1000483;2010-09-29;1;1009290;http://www.const-court.be/public/n/2004/2004-105n.pdf;
+1000484;2010-09-29;1;1009290;http://www.const-court.be/public/n/2004/2004-148n.pdf;
+1000486;2010-09-29;1;1009290;http://www.const-court.be/public/n/2001/2001-132n.pdf;
+1000487;2010-09-29;1;1009290;http://www.const-court.be/public/n/2009/2009-200n.pdf;
+1000488;2010-09-29;1;1001113;http://www.const-court.be/public/n/2003/2003-030n.pdf;
+1000489;2010-09-29;1;1001113;http://www.const-court.be/public/n/2003/2003-073n.pdf;
+1000490;2010-09-29;1;1002685;http://www.const-court.be/public/n/2005/2005-097n.pdf;
+1000491;2010-09-29;1;1002685;http://www.const-court.be/public/n/1994/1994-038n.pdf;
+1000492;2010-09-29;1;1002685;http://www.const-court.be/public/n/1998/1998-035n.pdf;
+1000493;2010-09-29;1;1002685;http://www.const-court.be/public/n/1995/1995-082n.pdf;
+1000494;2010-09-29;1;1002685;http://www.const-court.be/public/n/1996/1996-069n.pdf;
+1000495;2010-09-29;1;1002685;http://www.const-court.be/public/n/1992/1992-033n.pdf;
+1000496;2010-09-29;1;1002685;http://www.const-court.be/public/n/1996/1996-015n.pdf;
+1000498;2010-09-29;1;1001040;http://www.const-court.be/public/n/2003/2003-139n.pdf;
+1000499;2010-09-29;1;1001040;http://www.const-court.be/public/n/2005/2005-028n.pdf;
+1000500;2010-09-29;1;1001040;http://www.const-court.be/public/n/1995/1995-041n.pdf;
+1000501;2010-09-29;1;1001040;http://www.const-court.be/public/n/1996/1996-024n.pdf;
+1000502;2010-09-29;1;1001040;http://www.const-court.be/public/n/1999/1999-092n.pdf;
+1000503;2010-09-29;1;1017316;http://www.const-court.be/public/n/2001/2001-076n.pdf;
+1000504;2010-09-29;1;1017316;http://www.const-court.be/public/n/2003/2003-051n.pdf;
+1000505;2010-09-29;1;1017316;http://www.const-court.be/public/n/2005/2005-189n.pdf;
+1000506;2010-09-29;1;1017316;http://www.const-court.be/public/n/2005/2005-101n.pdf;
+1000507;2010-09-29;1;1017316;http://www.const-court.be/public/n/2004/2004-172n.pdf;
+1000508;2010-09-30;1;1003610;http://www.const-court.be/public/n/2008/2008-050n.pdf;
+1000509;2010-09-30;1;1003610;http://www.const-court.be/public/n/2008/2008-049n.pdf;
+1000510;2010-09-30;1;1019527;http://www.const-court.be/public/n/1992/1992-002n.pdf;
+1000511;2010-10-01;1;1017396;http://www.const-court.be/public/n/2010/2010-046n.pdf;
+1000512;2010-10-01;1;1017396;http://www.const-court.be/public/n/1991/1991-029n.pdf;
+1000513;2010-10-01;1;1017396;http://www.const-court.be/public/n/1992/1992-053n.pdf;
+1000514;2010-10-01;1;1003385;http://www.const-court.be/public/n/2004/2004-214n.pdf;
+1000515;2010-10-01;1;1003942;http://www.const-court.be/public/n/2001/2001-148n.pdf;
+1000516;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-080n.pdf;
+1000517;2010-10-01;1;1003942;http://www.const-court.be/public/n/2003/2003-112n.pdf;
+1000518;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-135n.pdf;
+1000519;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-014n.pdf;
+1000520;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-015n.pdf;
+1000521;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-016n.pdf;
+1000522;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-017n.pdf;
+1000523;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-050n.pdf;
+1000524;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-089n.pdf;
+1000525;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-169n.pdf;
+1000526;2010-10-01;1;1003942;http://www.const-court.be/public/n/2003/2003-141n.pdf;
+1000527;2010-10-01;1;1003942;http://www.const-court.be/public/n/2003/2003-106n.pdf;
+1000528;2010-10-01;1;1003942;http://www.const-court.be/public/n/2003/2003-129n.pdf;
+1000529;2010-10-01;1;1003942;http://www.const-court.be/public/n/2003/2003-077n.pdf;
+1000530;2010-10-01;1;1003942;http://www.const-court.be/public/n/1990/1990-018n.pdf;
+1000531;2010-10-01;1;1003942;http://www.const-court.be/public/n/1994/1994-051n.pdf;
+1000532;2010-10-01;1;1003942;http://www.const-court.be/public/n/1998/1998-108n.pdf;
+1000533;2010-10-01;1;1003942;http://www.const-court.be/public/n/1998/1998-043n.pdf;
+1000534;2010-10-01;1;1003942;http://www.const-court.be/public/n/1998/1998-046n.pdf;
+1000535;2010-10-01;1;1003942;http://www.const-court.be/public/n/1999/1999-025n.pdf;
+1000536;2010-10-01;1;1003942;http://www.const-court.be/public/n/1999/1999-080n.pdf;
+1000537;2010-10-01;1;1003942;http://www.const-court.be/public/n/1998/1998-103n.pdf;
+1000538;2010-10-01;1;1003942;http://www.const-court.be/public/n/2004/2004-204n.pdf;
+1000539;2010-10-01;1;1003942;http://www.const-court.be/public/n/2004/2004-189n.pdf;
+1000540;2010-10-01;1;1003942;http://www.const-court.be/public/n/2004/2004-203n.pdf;
+1000541;2010-10-01;1;1003942;http://www.const-court.be/public/n/2004/2004-205n.pdf;
+1000542;2010-10-01;1;1003942;http://www.const-court.be/public/n/2000/2000-057n.pdf;
+1000543;2010-10-01;1;1003942;http://www.const-court.be/public/n/2001/2001-017n.pdf;
+1000544;2010-10-01;1;1003942;http://www.const-court.be/public/n/2001/2001-131n.pdf;
+1000545;2010-10-01;1;1003942;http://www.const-court.be/public/n/2001/2001-021n.pdf;
+1000546;2010-10-01;1;1003942;http://www.const-court.be/public/n/2001/2001-071n.pdf;
+1000547;2010-10-01;1;1003942;http://www.const-court.be/public/n/1997/1997-038n.pdf;
+1000548;2010-10-01;1;1003942;http://www.const-court.be/public/n/2006/2006-032n.pdf;
+1000549;2010-10-01;1;1003942;http://www.const-court.be/public/n/2006/2006-066n.pdf;
+1000550;2010-10-01;1;1003942;http://www.const-court.be/public/n/2006/2006-035n.pdf;
+1000551;2010-10-01;1;1003942;http://www.const-court.be/public/n/2006/2006-044n.pdf;
+1000552;2010-10-01;1;1003942;http://www.const-court.be/public/n/2006/2006-045n.pdf;
+1000553;2010-10-01;1;1003942;http://www.const-court.be/public/n/2006/2006-043n.pdf;
+1000554;2010-10-01;1;1003942;http://www.const-court.be/public/n/2006/2006-123n.pdf;
+1000555;2010-10-01;1;1003942;http://www.const-court.be/public/n/2006/2006-034n.pdf;
+1000556;2010-10-01;1;1003942;http://www.const-court.be/public/n/2005/2005-194n.pdf;
+1000557;2010-10-01;1;1003942;http://www.const-court.be/public/n/2005/2005-131n.pdf;
+1000558;2010-10-01;1;1003942;http://www.const-court.be/public/n/2005/2005-166n.pdf;
+1000559;2010-10-01;1;1003942;http://www.const-court.be/public/n/2009/2009-050n.pdf;
+1000560;2010-10-01;1;1003942;http://www.const-court.be/public/n/2009/2009-079n.pdf;
+1000561;2010-10-01;1;1003942;http://www.const-court.be/public/n/2004/2004-074n.pdf;
+1000562;2010-10-01;1;1003942;http://www.const-court.be/public/n/2002/2002-048n.pdf;
+1000563;2010-10-01;1;1003942;http://www.const-court.be/public/n/2008/2008-116n.pdf;
+1000564;2010-10-01;1;1001538;http://www.const-court.be/public/n/2007/2007-095n.pdf;
+1000565;2010-10-01;1;1001538;http://www.const-court.be/public/n/2004/2004-007n.pdf;
+1000566;2010-10-01;1;1001538;http://www.const-court.be/public/n/2005/2005-134n.pdf;
+1000567;2010-10-01;1;1005502;http://www.const-court.be/public/n/2001/2001-044n.pdf;
+1000568;2010-10-01;1;1005502;http://www.const-court.be/public/n/1993/1993-059n.pdf;
+1000569;2010-10-01;1;1005502;http://www.const-court.be/public/n/1991/1991-017n.pdf;
+1000570;2010-10-14;1;1003438;http://www.const-court.be/public/n/1992/1992-014n.pdf;
+1000571;2010-10-14;1;1003435;http://www.const-court.be/public/n/1992/1992-052n.pdf;
+1000572;2010-10-14;1;1003435;http://www.const-court.be/public/n/2004/2004-048n.pdf;
+1000573;2010-10-14;1;1003435;http://www.const-court.be/public/n/2006/2006-105n.pdf;
+1000574;2010-10-14;1;1003435;http://www.const-court.be/public/n/2008/2008-127n.pdf;
+1000575;2010-10-14;1;1003435;http://www.const-court.be/public/n/2009/2009-104n.pdf;
+1000576;2010-10-14;1;1003435;http://www.const-court.be/public/n/2010/2010-020n.pdf;
+1000577;2010-10-14;1;1008520;http://www.const-court.be/public/n/1990/1990-010n.pdf;
+1000578;2010-10-14;1;1008520;http://www.const-court.be/public/n/1990/1990-023n.pdf;
+1000579;2010-10-14;1;1008520;http://www.const-court.be/public/n/2000/2000-131n.pdf;
+1000580;2010-10-14;1;1008520;http://www.const-court.be/public/n/2004/2004-138n.pdf;
+1000581;2010-10-14;1;1008520;http://www.const-court.be/public/n/2009/2009-137n.pdf;
+1000582;2010-10-14;1;1008520;http://www.const-court.be/public/n/2006/2006-196n.pdf;
+1000583;2010-10-14;1;1008520;http://www.const-court.be/public/n/1998/1998-061n.pdf;
+1000584;2010-10-14;1;1008520;http://www.const-court.be/public/n/2003/2003-119n.pdf;
+1000585;2010-10-14;1;1008445;http://www.const-court.be/public/n/2003/2003-065n.pdf;
+1000586;2010-10-14;1;1008445;http://www.const-court.be/public/n/1991/1991-005n.pdf;
+1000587;2010-10-14;1;1008445;http://www.const-court.be/public/n/2001/2001-066n.pdf;
+1000588;2010-10-14;1;1008445;http://www.const-court.be/public/n/2001/2001-124n.pdf;
+1000589;2010-10-14;1;1008445;http://www.const-court.be/public/n/2004/2004-008n.pdf;
+1000590;2010-10-14;1;1008445;http://www.const-court.be/public/n/2004/2004-014n.pdf;
+1000591;2010-10-14;1;1008445;http://www.const-court.be/public/n/2004/2004-166n.pdf;
+1000592;2010-10-14;1;1002722;http://www.const-court.be/public/n/2002/2002-117n.pdf;
+1000593;2010-10-14;1;1009053;http://www.const-court.be/public/n/2003/2003-152n.pdf;
+1000594;2010-10-14;1;1009053;http://www.const-court.be/public/n/2004/2004-056n.pdf;
+1000595;2010-10-14;1;1008655;http://www.const-court.be/public/n/1989/1989-021n.pdf;
+1000596;2010-10-14;1;1008655;http://www.const-court.be/public/n/1989/1989-022n.pdf;
+1000597;2010-10-14;1;1008655;http://www.const-court.be/public/n/1989/1989-023n.pdf;
+1000598;2010-10-14;1;1008655;http://www.const-court.be/public/n/1990/1990-001n.pdf;
+1000599;2010-10-14;1;1008655;http://www.const-court.be/public/n/1990/1990-006n.pdf;
+1000600;2010-10-14;1;1008655;http://www.const-court.be/public/n/2007/2007-160n.pdf;
+1000601;2010-10-14;1;1008655;http://www.const-court.be/public/n/1989/1989-017n.pdf;
+1000602;2010-10-14;1;1008655;http://www.const-court.be/public/n/1990/1990-020n.pdf;
+1000603;2010-10-14;1;1008655;http://www.const-court.be/public/n/2007/2007-098n.pdf;
+1000604;2010-10-14;1;1008655;http://www.const-court.be/public/n/2009/2009-104n.pdf;
+1000605;2010-10-14;1;1008655;http://www.const-court.be/public/n/2009/2009-083n.pdf;
+1000606;2010-10-14;1;1008655;http://www.const-court.be/public/n/2009/2009-162n.pdf;
+1000607;2010-10-14;1;1008655;http://www.const-court.be/public/n/2009/2009-080n.pdf;
+1000608;2010-10-14;1;1008655;http://www.const-court.be/public/n/2005/2005-022n.pdf;
+1000609;2010-10-14;1;1006967;http://www.const-court.be/public/n/2004/2004-035n.pdf;
+1000610;2010-10-14;1;1006967;http://www.const-court.be/public/n/1998/1998-024n.pdf;
+1000611;2010-10-14;1;1006967;http://www.const-court.be/public/n/1990/1990-030n.pdf;
+1000612;2010-10-14;1;1006967;http://www.const-court.be/public/n/2003/2003-035n.pdf;
+1000613;2010-10-14;1;1006967;http://www.const-court.be/public/n/2004/2004-096n.pdf;
+1000614;2010-10-14;1;1006967;http://www.const-court.be/public/n/2004/2004-103n.pdf;
+1000615;2010-10-14;1;1006967;http://www.const-court.be/public/n/2005/2005-078n.pdf;
+1000616;2010-10-14;1;1006986;http://www.const-court.be/public/n/2004/2004-195n.pdf;
+1000617;2010-10-14;1;1006986;http://www.const-court.be/public/n/2008/2008-108n.pdf;
+1000618;2010-10-14;1;1006986;http://www.const-court.be/public/n/2005/2005-186n.pdf;
+1000619;2010-10-14;1;1006986;http://www.const-court.be/public/n/2006/2006-156n.pdf;
+1000620;2010-10-14;1;1006986;http://www.const-court.be/public/n/2007/2007-009n.pdf;
+1000621;2010-10-14;1;1006986;http://www.const-court.be/public/n/2008/2008-053n.pdf;
+1000622;2010-10-14;1;1006986;http://www.const-court.be/public/n/1999/1999-030n.pdf;
+1000623;2010-10-14;1;1006986;http://www.const-court.be/public/n/2009/2009-111n.pdf;
+1000624;2011-01-13;1;1018526;http://www.const-court.be/public/n/2010/2010-124n.pdf;"Het Hof vernietigt, in zoverre zij van toepassing zijn op de Franstalige scholen en de afdelingen ervan in de zes randgemeenten bedoeld in artikel 7 van de gecoördineerde wetten van 18 juli 1966 op het gebruik van de talen in bestuurszaken :
+a) artikel 2, eerste lid, in zoverre het verwijst naar artikel 62, § 1, 7°, van het decreet basisonderwijs van 25 februari 1997, alsmede artikel 2, tweede lid, 2°;
+b) artikel 2, eerste lid, in zoverre het verwijst naar de artikelen 44, 44bis en 62, § 1, 9°, van het voormelde decreet van 25 februari 1997, alsmede artikel 2, tweede lid, 1° en 3°, doch enkel in zoverre die bepalingen niet voorzien in een overgangsperiode tijdens welke de schoolbesturen
+van de Franstalige scholen in de randgemeenten een afwijking van de ontwikkelingsdoelen en eindtermen en de goedkeuring van hun leerplannen kunnen verkrijgen."
+1000625;2011-01-13;1;1000699;http://www.const-court.be/public/n/2010/2010-123n.pdf;"Artikel 21, § 5, zoals van toepassing voor de productiejaren 2003, 2004, 2005 en 2006 en de daarmee overeenstemmende aanslagjaren 2004, 2005, 2006 en 2007, schendt artikel 6, § 1, VI, derde lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen."
+1000626;2010-11-05;1;1008191;http://www.const-court.be/public/n/2010/2010-117n.pdf;"Geen schending (In de interpretatie volgens welke de in het geding zijnde decretale bepalingen betreffende het «vervoer voor eigen rekening» enkel van toepassing zijn op «het gemeenschappelijk stads- en streekvervoer» en op «de bijzondere vormen van geregeld vervoer», heeft de decreetgever een aangelegenheid geregeld die aan de gewesten is toegewezen)."
+1000627;2011-01-13;1;1018090;http://www.const-court.be/public/n/2010/2010-116n.pdf;Verwerping.
+1000628;2011-01-13;1;1000387;http://www.const-court.be/public/n/2010/2010-106n.pdf;"- Artikel 36bis, § 1, schendt artikel 24 van de Grondwet niet in zoverre het de inrichtende machten het recht ontzegt de uitbreiding van de vaste benoeming te weigeren van personeelsleden die reeds vast benoemd zijn in een deeltijdse betrekking en die in het verleden voldoening hebben gegeven, wanneer die weigering gebaseerd is op de omstandigheid dat die personeelsleden niet voldoen aan door de inrichtende macht aanvullend opgestelde selectiecriteria.
+- Dezelfde bepaling schendt de artikelen 10, 11 en 24 van de Grondwet niet in zoverre zij het niet mogelijk maakt de uitbreiding van de vaste benoeming van personeelsleden die reeds vast benoemd zijn in een deeltijdse betrekking en die in het verleden voldoening hebben gegeven, aan aanvullende selectievoorwaarden te onderwerpen."
+1000629;2011-01-13;1;1018245;http://www.const-court.be/public/n/2010/2010-113n.pdf;"- Artikel 6.1.1, vierde lid, schendt artikel 16 van de Grondwet, in samenhang gelezen met artikel 1 van het Eerste Aanvullend Protocol bij het Europees Verdrag voor de rechten van de mens, niet.
+- Artikel 6.1.1, derde en vierde lid, en artikel 6.1.2 schenden artikel 23, derde lid, 4°, van de Grondwet niet.
+- Artikel 6.1.1, derde en vierde lid, schendt de artikelen 10 en 11 van de Grondwet niet."
+1000630;2011-01-13;1;1006669;http://www.const-court.be/public/n/2010/2010-137n.pdf;"Artikel 145bis, § 1, eerste lid, 6°, in de versie zoals ingevoegd bij decreet van 13 juli 2001 en gewijzigd bij decreet van 21 november 2003, schendt niet de artikelen 10 en 11 van de Grondwet in zoverre het, als voorwaarde voor het verkrijgen van een stedenbouwkundige vergunning voor de uitbreiding van een gebouw dat gelegen is buiten een geëigende bestemmingszone, oplegt dat die uitbreiding een volumevermeerdering met 100 pct. niet mag overschrijden."
+1000631;2011-01-19;1;1018245;http://www.const-court.be/public/n/2011/2011-002n.pdf;"- Artikel 6.1.1, vierde lid, schendt artikel 16 van de Grondwet, in samenhang gelezen met artikel 1 van het Eerste Aanvullend Protocol bij het Europees Verdrag voor de rechten van de mens, niet.
+- Artikel 6.1.1, derde en vierde lid, artikel 6.1.2 en artikel 6.1.47, eerste lid, schenden artikel 23, derde lid, 4°, van de Grondwet niet.
+- Artikel 6.1.1, derde en vierde lid, schendt de artikelen 10 en 11 van de Grondwet niet."
+1000632;2011-01-19;1;1003794;http://www.const-court.be/public/n/2009/2009-153n.pdf;"Klaarblijkelijke niet-bevoegdheid van het Hof."
+1000633;2011-01-19;1;1017476;http://www.const-court.be/public/n/2009/2009-154n.pdf;"Klaarblijkelijke niet-ontvankelijkheid van de vordering tot schorsing."
+1000634;2011-02-03;1;1017423;http://www.const-court.be/public/n/2011/2011-007n.pdf;
+1000635;2011-03-08;1;1017963;www.const-court.be/public/n/2011/2011-033n.pdf;"Het Hof:
+- vernietigt het decreet van het Vlaamse Gewest van 8 mei 2009 « houdende wijziging van het REG-decreet van 2 april 2004, wat de uitbreiding tot luchtvaartactiviteiten betreft »;
+- handhaaft de gevolgen van de vernietigde bepalingen tot de inwerkingtreding van een bij samenwerkingsakkoord tussen de federale Staat en de gewesten vastgestelde regeling ter uitvoering van richtlijn 2008/101/EG van het Europees Parlement en de Raad van 19 november 2008 « tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap » en uiterlijk tot 31 december 2011."
+1000636;2011-03-08;1;1018245;http://www.const-court.be/public/n/2011/2011-022n.pdf;"- Artikel 6.1.1, vierde lid, van de bij besluit van de Vlaamse Regering van 15 mei 2009 gecoördineerde « Vlaamse Codex Ruimtelijke Ordening » (VCRO) schendt artikel 16 van de Grondwet, in samenhang gelezen met artikel 1 van het Eerste Aanvullend Protocol bij het Europees Verdrag voor de rechten van de mens, niet.
+- Artikel 6.1.1, derde en vierde lid, en artikel 6.1.2 van de VCRO schenden artikel 23, derde lid, 4°, van de Grondwet niet.
+- Artikel 6.1.1, derde en vierde lid, van de VCRO schendt de artikelen 10 en 11 van de Grondwet niet."
+1000637;2011-03-08;1;1017905;http://www.const-court.be/public/n/2011/2011-008n.pdf;"Het Hof:
+1. vernietigt
+a) in artikel 133/28, § 1, derde lid, van het decreet van het Vlaamse Gewest van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, zoals vervangen bij artikel 36 van het decreet van het Vlaamse Gewest van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid, de woorden « , met dien verstande dat de aanvraag nimmer aan een openbaar onderzoek moet worden onderworpen »;
+b) artikel 133/71, § 2, 1°, b), 2°, b) en 3°, b), van het voormelde decreet van 18 mei 1999, zoals vervangen bij artikel 36 van het voormelde decreet van 27 maart 2009;
+2. verwerpt de beroepen voor het overige;
+3. handhaaft tot 31 juli 2011 de gevolgen van het vernietigde artikel 133/71, § 2, 1°, b), 2°, b) en 3°, b), van het voormelde decreet van 18 mei 1999."
+1000638;2011-03-22;1;1006669;http://www.const-court.be/public/n/2011/2011-008n.pdf;"Het Hof:
+1. vernietigt
+a) in artikel 133/28, § 1, derde lid, van het decreet van het Vlaamse Gewest van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, zoals vervangen bij artikel 36 van het decreet van het Vlaamse Gewest van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid, de woorden « , met dien verstande dat de aanvraag nimmer aan een openbaar onderzoek moet worden onderworpen »;
+b) artikel 133/71, § 2, 1°, b), 2°, b) en 3°, b), van het voormelde decreet van 18 mei 1999, zoals vervangen bij artikel 36 van het voormelde decreet van 27 maart 2009;
+2. verwerpt de beroepen voor het overige;
+3. handhaaft tot 31 juli 2011 de gevolgen van het vernietigde artikel 133/71, § 2, 1°, b), 2°, b) en 3°, b), van het voormelde decreet van 18 mei 1999."
+1000639;2011-03-14;1;1007112;http://www.const-court.be/public/n/2010/2010-157n.pdf;"Artikel 26 van de wet van 10 maart 1925 op de electriciteitsvoorziening schendt de artikelen 10 en 11 van de Grondwet."
+1000640;2011-03-14;1;1016590;http://www.const-court.be/public/n/2010/2010-062n.pdf;"Artikel 16.6.3, § 2, van het decreet van het Vlaamse Gewest van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, zoals ingevoegd bij het decreet van 21 december 2007 tot aanvulling van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid met een titel XVI « Toezicht, handhaving en veiligheidsmaatregelen », schendt niet de bevoegdheidverdelende regels, noch de artikelen 12 en 14 van de Grondwet, al dan niet in samenhang gelezen met de artikelen 10 en 11 van de Grondwet en met artikel 7 van het Europees Verdrag voor de rechten van de mens en met artikel 15 van het Internationaal Verdrag inzake burgerrechten en politieke rechten, noch de artikelen 10 en 11 van de Grondwet."
+1000641;2011-03-17;1;1006786;http://www.const-court.be/public/n/1998/1998-128n.pdf;"Het Hof vernietigt:
+in artikel 59, 1°, van het Wetboek der Successierechten, zoals vervangen door artikel 19 van het decreet van 20 december 1996, de woorden « gelegen in het Vlaamse Gewest », in zoverre zij betrekking hebben op de instellingen van openbaar nut,
+in artikel 60bis, § 5, vijfde lid, en § 7, van hetzelfde Wetboek, zoals vervangen door artikel 21 van het decreet van 20 december 1996 en gewijzigd door artikel 27 van het decreet van 8 juli 1997, de woorden « verhoogd met de wettelijke interest », respectievelijk « verhoogd met de wettelijke intresten »."
+1000642;2011-03-17;1;1006786;http://www.const-court.be/public/n/1999/1999-041n.pdf;"Verwerping beroep."
+1000643;2011-03-17;1;1006786;http://www.const-court.be/public/n/1999/1999-082n.pdf;"Verwerping beroep."
+1000644;2011-03-17;1;1006786;http://www.const-court.be/public/n/2006/2006-058n.pdf;"Verwerping beroep."
+1000645;2011-03-17;1;1006786;http://www.const-court.be/public/n/2010/2010-083n.pdf;"Artikel 60bis, § 5, eerste lid, van het Wetboek der successierechten, zoals van toepassing in het Vlaamse Gewest vóór de wijziging ervan bij het Vlaamse decreet van 21 december 2007 houdende bepalingen tot begeleiding van de begroting 2008, schendt artikel 6, § 1, VI, derde lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen."
+1000646;2011-03-17;1;1006786;http://www.const-court.be/public/n/2006/2006-121n.pdf;"Verwerping beroep."
+1000647;2011-03-17;1;1006786;http://www.const-court.be/public/n/2007/2007-072n.pdf;"Artikel 84, tweede lid, van het Wetboek der successierechten schendt de artikelen 10 en 11 van de Grondwet niet."
+1000648;2011-03-17;1;1006786;http://www.const-court.be/public/n/2004/2004-141n.pdf;"- De artikelen 111 tot 118 van het Wetboek der successierechten schenden niet de artikelen 10 en 11 van de Grondwet.
+- De artikelen 119 en 120 van het Wetboek der successierechten schenden de artikelen 10 en 11 van de Grondwet."
+1000649;2011-03-17;1;1006786;http://www.const-court.be/public/n/2007/2007-036n.pdf;"Artikel 8, zesde lid, 3°, van het Wetboek der successierechten schendt de artikelen 10, 11, 22 en 172 van de Grondwet niet, in zoverre het niet van toepassing is op de overlevende feitelijk samenwonende."
+1000650;2011-03-17;1;1006786;http://www.const-court.be/public/n/2006/2006-036n.pdf;"De artikelen 147, 148, 149 en 152 van het Wetboek der successierechten schenden de artikelen 10, 11 en 172 van de Grondwet niet."
+1000651;2011-03-17;1;1006786;http://www.const-court.be/public/n/2005/2005-181n.pdf;"Artikel 50 van het Wetboek der successierechten, zoals vervangen bij het decreet van het Vlaamse Gewest van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, schendt niet de artikelen 10, 11 en 172 van de Grondwet doordat het voor de vererving tussen een stiefgrootouder en een stiefkleinkind niet het tarief voor een vererving in de rechte lijn toepasselijk maakt."
+1000652;2011-03-17;1;1006786;http://www.const-court.be/public/n/2010/2010-015n.pdf;"Artikel 50 van het Wetboek der successierechten, zoals vervangen bij artikel 45 van het decreet van het Vlaamse Gewest van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, schendt de artikelen 10, 11 en 172 van de Grondwet niet doordat het voor de vererving tussen een stiefgrootouder en een stiefkleinkind wiens moeder niet vooraf overleden is, niet het tarief voor een vererving in de rechte lijn toepasselijk maakt."
+1000653;2011-03-17;1;1006786;http://www.const-court.be/public/n/2010/2010-064n.pdf;"Artikel 48, vijfde lid, van het Wetboek der successierechten, zoals het van toepassing was in het Vlaamse Gewest op het ogenblik van de aan de verwijzende rechter voorgelegde feiten, schendt de artikelen 10 en 11 van de Grondwet niet."
+1000654;2011-03-17;1;1006786;http://www.const-court.be/public/n/2002/2002-186n.pdf;"Artikel 50 van het Wetboek der successierechten, zoals vervangen bij artikel 15 van het decreet van het Vlaamse Gewest van 20 december 1996 en vóór de vervanging ervan bij artikel 44 van het decreet van 21 december 2001, schendt de artikelen 10 en 11 van de Grondwet."
+1000655;2011-03-17;1;1006786;http://www.const-court.be/public/n/2002/2002-101n.pdf;"Artikel 52.2 van het Wetboek der successierechten schendt de artikelen 10 en 11 van de Grondwet niet doordat die bepaling het niet mogelijk maakt het tarief « in de rechte lijn » toe te passen voor de erfenissen verkregen door de persoon die het voorwerp heeft uitgemaakt van een gewone adoptie"
+1000656;2011-03-17;1;1006786;http://www.const-court.be/public/n/1999/1999-060n.pdf;"Artikel 68, eerste lid, van het Wetboek der successierechten schendt de artikelen 10 en 11 van de Grondwet niet."
+1000657;2011-03-17;1;1006786;http://www.const-court.be/public/n/2009/2009-119n.pdf;"Artikel 132 van het Wetboek der successierechten schendt de artikelen 10 en 11 van de Grondwet, in samenhang gelezen met artikel 6 van het Europees Verdrag voor de rechten van de mens."
+1000658;2011-03-17;1;1006786;http://www.const-court.be/public/n/1999/1999-032n.pdf;"Prejudiciële vraag over  artikel 126."
+1000659;2011-03-17;1;1006786;http://www.const-court.be/public/n/2005/2005-022n.pdf;"Prejudiciële vraag over artikel 8."
+1000660;2011-03-17;1;1006786;http://www.const-court.be/public/n/2007/2007-006n.pdf;"Prejudiciële vraag over artikel 120."
+1000661;2011-03-21;1;1006342;http://www.const-court.be/public/n/2011/2011-040n.pdf;"Aldus geïnterpreteerd dat zij de Raad van het Gemeenschapsonderwijs de bevoegdheid opdragen om zich uit te spreken over een voor leerlingen geldend algemeen en principieel verbod op het dragen van zichtbare religieuze en levensbeschouwelijke kentekens, schenden de artikelen 33, § 1, 1° en 2°, en 34, 1°, van het bijzonder decreet van de Vlaamse Gemeenschap van 14 juli 1998 betreffende het gemeenschapsonderwijs artikel 24 van de Grondwet niet."
+1000662;2011-03-22;1;1004868;http://www.const-court.be/public/n/2009/2009-130n.pdf;"Klaarblijkelijke niet-bevoegdheid van het Hof."
+1000664;2011-03-23;1;1014578;http://www.const-court.be/public/n/2007/2007-062n.pdf;"Betreft beroep tot vernietiging van artikel 44."
+1000665;2011-03-23;1;1002544;http://www.const-court.be/public/n/2007/2007-044n.pdf;"Artikel 7bis van de jachtwet van 28 februari 1882 en artikel 24 van het jachtdecreet van het Vlaamse Gewest van 24 juli 1991 schenden de artikelen 10 en 11 van de Grondwet."
+1000666;2011-05-05;1;1018526;http://www.const-court.be/public/n/2011/2011-057n.pdf;"Beroepen zonder voorwerp - Verwerping van de beroepen."
+1000667;2011-05-05;1;1006669;http://www.const-court.be/public/n/2011/2011-052n.pdf;"Artt. 149  en 151: schending of geen schending, afhankelijk van de interpretatie."
+1000668;2011-05-05;1;1018245;http://www.const-court.be/public/n/2011/2011-052n.pdf;
+1000669;2011-05-05;1;1017900;http://www.const-court.be/public/n/2011/2011-050n.pdf;"Stellen van prejudiciële vragen aan het Hof van Justitie van de Europese Unie - Aanhouding van bepaalde onderdelen van bepaalde middelen tot wanneer het Hof van Justitie uitspraak zal hebben gedaan - Verwerping van de beroepen (onder voorbehoud van interpretatie)"
+1000670;2011-05-05;1;1017905;http://www.const-court.be/public/n/2011/2011-050n.pdf;"Stellen van prejudiciële vragen aan het Hof van Justitie van de Europese Unie - Aanhouding van bepaalde onderdelen van bepaalde middelen tot wanneer het Hof van Justitie uitspraak zal hebben gedaan - Verwerping van de beroepen (onder voorbehoud van interpretatie)"
+1000671;2011-05-05;1;1017900;http://www.const-court.be/public/n/2011/2011-049n.pdf;"Stellen van prejudiciële vraag aan het Hof van Justitie van de Europese Unie"
+1000672;2011-05-10;1;1005637;http://www.const-court.be/public/n/2006/2006-146n.pdf;"Artikel 7: schending."
+1000673;2011-05-10;1;1014337;http://www.const-court.be/public/n/2006/2006-189n.pdf;"Arrest i.v.m. vordering tot schorsing."
+1000674;2011-05-10;1;1011528;http://www.const-court.be/public/n/2006/2006-081n.pdf;
+1000675;2011-05-10;1;1001111;http://www.const-court.be/public/n/2006/2006-065n.pdf;
+1000676;2011-05-10;1;1006659;http://www.const-court.be/public/n/2006/2006-051n.pdf;
+1000677;2011-05-10;1;1006834;http://www.const-court.be/public/n/2006/2006-031n.pdf;
+1000678;2011-05-10;1;1013079;http://www.const-court.be/public/n/2006/2006-016n.pdf;
+1000679;2011-05-10;1;1006659;http://www.const-court.be/public/n/2006/2006-016n.pdf;
+1000680;2011-05-11;1;1011434;http://www.const-court.be/public/n/2005/2005-185n.pdf;
+1000681;2011-05-11;1;1011434;http://www.const-court.be/public/n/2005/2005-105n.pdf;
+1000682;2011-05-11;1;1004188;http://www.const-court.be/public/n/2005/2005-185n.pdf;
+1000683;2011-05-11;1;1004188;http://www.const-court.be/public/n/2005/2005-105n.pdf;
+1000684;2011-05-11;1;1005498;http://www.const-court.be/public/n/2005/2005-180n.pdf;
+1000685;2011-05-17;1;1004147;http://www.const-court.be/public/n/2005/2005-144n.pdf;"Artikel 40, § 2, in de ruime interpretatie dat het de territoriale bevoegdheid van de rechter regelt bij elke betwisting over de leegstandsheffing, schendt de regels voor het bepalen van de onderscheiden bevoegdheid van de Staat, de gemeenschappen
+en de gewesten."
+1000686;2011-05-23;1;1006669;http://www.const-court.be/public/n/2005/2005-094n.pdf;
+1000687;2011-05-24;1;1012947;http://www.const-court.be/public/n/2005/2005-016n.pdf;"Art. 31: gedeeltelijke vernietiging."
+1000688;2011-05-24;1;1006705;http://www.const-court.be/public/n/2004/2004-185n.pdf;"Art. 2: geen schending."
+1000689;2011-05-24;1;1011528;http://www.const-court.be/public/n/2004/2004-136n.pdf;"Artt. 7 en 8: schending."
+1000690;2011-05-24;1;1000034;http://www.const-court.be/public/n/1987/1987-032n.pdf;
+1000691;2011-05-24;1;1000034;http://www.const-court.be/public/n/1990/1990-027n.pdf;
+1000692;2011-05-25;1;1018245;http://www.const-court.be/public/n/2011/2011-075n.pdf;"Artt. 1.1.2, 10°, en 6.1.1, vierde lid): geen schending."
+1000693;2011-05-25;1;1008191;http://www.const-court.be/public/n/2011/2011-067n.pdf;Niet-ontvankelijkheid.
+1000694;2011-05-25;1;1018526;http://www.const-court.be/public/n/2011/2011-060n.pdf;"Gedeeltelijke vernietiging - Verwerping van het beroep onder voorbehoud van interpretatie."
+1000696;2011-06-15;1;1018245;http://www.const-court.be/public/n/2011/2011-102n.pdf;"Artt. 6.1.1 en 6.1.2: geen schending."
+1000697;2011-06-17;1;1013949;http://www.const-court.be/public/n/2011/2011-109n.pdf;"Art. 141: geen schending."
+1000698;2011-06-17;1;1005343;http://www.const-court.be/public/n/2011/2011-107n.pdf;"Art. 53, § 2: geen schending."
+1000699;2011-06-17;1;1012009;http://www.const-court.be/public/n/2011/2011-107n.pdf;"Art. 67, 2°: geen schending."
+1000701;2011-09-07;1;1000738;http://www.const-court.be/public/n/2003/2003-171n.pdf;"Art. 5: geen schending."
+1000702;2011-09-07;1;1007756;http://www.const-court.be/public/n/2003/2003-171n.pdf;
+1000703;2011-09-07;1;1008460;http://www.const-court.be/public/n/2003/2003-110n.pdf;"Klaarblijkelijke niet-bevoegdheid van het Hof."
+1000704;2011-09-07;1;1006669;http://www.const-court.be/public/n/2003/2003-057n.pdf;"Art. 195bis."
+1000705;2011-09-07;1;1008164;http://www.const-court.be/public/n/2003/2003-029n.pdf;
+1000706;2011-09-07;1;1004736;http://www.const-court.be/public/n/2003/2003-002n.pdf;
+1000707;2011-09-07;1;1004736;http://www.const-court.be/public/n/2003/2003-029n.pdf;
+1000708;2011-09-07;1;1004736;http://www.const-court.be/public/n/1990/1990-008n.pdf;
+1000709;2011-09-07;1;1004736;http://www.const-court.be/public/n/2003/2003-035n.pdf;
+1000710;2011-09-07;1;1004736;http://www.const-court.be/public/n/2006/2006-059n.pdf;
+1000711;2011-09-07;1;1004736;http://www.const-court.be/public/n/2010/2010-108n.pdf;
+1000712;2011-09-07;1;1004736;http://www.const-court.be/public/n/1994/1994-090n.pdf;
+1000713;2011-09-07;1;1004736;http://www.const-court.be/public/n/2005/2005-078n.pdf;
+1000714;2011-09-07;1;1004736;http://www.const-court.be/public/n/1994/1994-079n.pdf;
+1000715;2011-09-07;1;1004736;http://www.const-court.be/public/n/2010/2010-063n.pdf;
+1000716;2011-09-07;1;1004736;http://www.const-court.be/public/n/1997/1997-078n.pdf;
+1000717;2011-09-07;1;1004736;http://www.const-court.be/public/n/2000/2000-078n.pdf;
+1000718;2011-09-07;1;1004736;http://www.const-court.be/public/n/2010/2010-041n.pdf;
+1000719;2011-09-19;1;1009730;http://www.const-court.be/public/n/2002/2002-151n.pdf;"Art. 80: geen schending."
+1000720;2011-09-19;1;1014334;http://www.const-court.be/public/n/2002/2002-031n.pdf;"Art. 3: geen schending."
+1000721;2012-01-16;1;1017381;http://www.const-court.be/public/n/2011/2011-149n.pdf;"Art. 7.: geen schending."
+1000722;2011-10-14;1;1015330;http://www.const-court.be/public/n/2011/2011-121n.pdf;"Art. 46bis, derde lid, 1°: geen schending."
+1000723;2011-10-14;1;1016994;http://www.const-court.be/public/n/2011/2011-119n.pdf;"Art. 21, § 2, derde lid: geen schending."
+1000724;2011-10-14;1;1006783;http://www.const-court.be/public/n/2011/2011-157n.pdf;"Art. 94: geen schending."
+1000725;2011-12-19;1;1021097;http://www.const-court.be/public/n/2010/2010-028n.pdf;
+1000726;2011-12-23;1;1019291;http://www.const-court.be/public/n/2011/2011-188n.pdf;
+1000728;2011-12-23;1;1018245;http://www.const-court.be/public/n/2011/2011-188n.pdf;
+1000729;2012-01-16;1;1019245;http://www.const-court.be/public/n/2012/2012-002n.pdf;"De beroepen tot vernietiging van artikel 2 worden verworpen."
+1000730;2012-01-16;1;1018245;http://www.const-court.be/public/n/2011/2011-186n.pdf;"Wat art. 2.4.6, § 1, eerste lid betreft: geen schending."
+1000731;2012-03-02;1;1000736;http://www.arbitrage.be/public/n/2001/2001-072n.pdf;
+1000732;2012-03-02;1;1000736;http://www.arbitrage.be/public/n/1994/1994-008n.pdf;
+1000733;2012-03-06;1;1019291;http://www.const-court.be/public/n/2012/2012-009n.pdf;
+1000734;2012-03-06;1;1018245;http://www.const-court.be/public/n/2012/2012-009n.pdf;
+1000735;2012-03-06;1;1018245;http://www.const-court.be/public/n/2012/2012-006n.pdf;
+1000736;2012-03-06;1;1019291;http://www.const-court.be/public/n/2012/2012-006n.pdf;
+1000737;2012-03-06;1;1019352;http://www.const-court.be/public/n/2012/2012-007n.pdf;
+1000738;2012-03-06;1;1009657;http://www.const-court.be/public/n/2012/2012-007n.pdf;
+1000739;2012-03-06;1;1016816;http://www.const-court.be/public/n/2012/2012-002n.pdf;
+1000740;2012-03-13;1;1008406;http://www.const-court.be/public/n/2008/2008-041n.pdf;
+1000741;2012-03-13;1;1006783;http://www.const-court.be/public/n/2008/2008-041n.pdf;
+1000742;2012-03-13;1;1013468;http://www.const-court.be/public/n/2008/2008-105n.pdf;
+1000743;2012-03-13;1;1014334;http://www.const-court.be/public/n/2007/2007-138n.pdf;
+1000744;2012-05-21;1;1019270;http://www.const-court.be/public/n/2012/2012-057n.pdf;
+1000745;2012-07-18;1;1019853;http://www.const-court.be/public/n/2012/2012-048n.pdf;
+1000746;2012-07-20;1;1019802;http://www.const-court.be/public/n/2012/2012-064n.pdf;
+1000747;2012-10-18;1;1019929;http://www.const-court.be/public/n/2012/2012-089n.pdf;
+1000748;2012-10-18;1;1020561;http://www.const-court.be/public/n/2012/2012-091n.pdf;
+1000749;2012-11-20;1;1020291;http://www.const-court.be/public/n/2012/2012-133n.pdf;
+1000750;2012-11-20;1;1020291;http://www.const-court.be/public/n/2012/2012-135n.pdf;
+1000751;2012-11-20;1;1020518;http://www.const-court.be/public/n/2012/2012-135n.pdf;
+1000752;2012-11-20;1;1018092;http://www.const-court.be/public/n/2012/2012-135n.pdf;
+1000753;2013-01-03;1;1018245;http://www.const-court.be/public/n/2012/2012-121n.pdf;
+1000754;2013-01-18;1;1018245;http://www.const-court.be/public/n/2012/2012-129n.pdf;
+1000755;2013-01-18;1;1018245;http://www.const-court.be/public/n/2012/2012-139n.pdf;

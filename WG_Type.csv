@@ -1,0 +1,35 @@
+RecID;MStamp;MStation;Omschrijving;Code;Afkorting;ParentId
+0;;1;---;;;0
+1000001;2006-06-24;1;Decreet;M;Decr.;1000001
+1000002;2006-07-25;1;"Besluit van de Vlaamse Regering";Q;B.V.R.;1000002
+1000003;2006-06-24;1;"Koninklijk Besluit";O;K.B.;1000003
+1000004;2006-06-24;1;"Ministerieel besluit";U;M.B.;1000004
+1000005;2006-06-24;1;Wet;K;W.;1000005
+1000006;2006-06-24;1;Samenwerkingsakkoord;G;S.A.;1000006
+1000007;2006-06-24;1;Omzendbrief;W;Omz.;1000007
+1000008;2006-06-24;1;"Gecoördineerde decreten";L;"Gecoor. Decr.";1000008
+1000009;2012-11-20;1;"Besluit van de secretaris-generaal";Z;B.S.G.;1000035
+1000010;2006-06-24;1;"Genummerd koninklijk besluit";N;"K.B. nr.";1000010
+1000011;2006-06-24;1;"Gecoördineerde wetten";J;"Gecoor. W.";1000011
+1000012;2012-11-20;1;"Besluit van de Regent";P;B.R.;1000036
+1000013;2006-06-24;1;"Bijzonder Decreet";I;"Bijz. Decr.";1000013
+1000014;2006-06-24;1;Verdrag;A;Verdrag;1000014
+1000015;2012-11-20;1;Besluitwet;H;"Besl. W.";1000036
+1000016;2006-06-24;1;"Bijzondere Wet";E;"Bijz. W.";1000016
+1000017;2006-06-24;1;Grondwet;C;G.W.;1000017
+1000018;2012-11-20;1;"Besluit van de administrateur-generaal";Z;B.A.G.;1000035
+1000020;2007-01-04;1;Wetboek;K;Wb.;1000020
+1000021;2012-11-20;1;"Besluit van de voorzitter van het Eigen Vermogen";Z;BV;1000035
+1000022;2011-07-04;1;Protocol;G;Pr.;1000022
+1000024;2012-11-20;1;"'s Konings Verklaring";D;KV;1000036
+1000025;2012-11-20;1;Edict;D;Ed;1000036
+1000026;2012-11-20;1;"Keizerlijk Decreet";D;"Keiz. Decr.";1000036
+1000028;2012-11-20;1;Overeenkomst;V;O.;1000036
+1000029;2012-11-20;1;"Besluit van het afdelingshoofd";Za;B.A.;1000035
+1000030;2012-11-20;1;"Besluit van de Raad van Bestuur";Zb;B.RvB.;1000036
+1000031;2012-11-20;1;"Huishoudelijk Reglement";Zc;H.R.;1000036
+1000032;2012-04-06;1;"Besluit van de gedelegeerd bestuurder";Zc;B.G.B.;1000032
+1000033;2012-08-30;1;"Gezamenlijke Bekendmaking van de Gemeenschappelijke Nautische Autoriteit";W;GB;
+1000034;2012-08-22;1;Grondwetwijziging;C;G.W.-wijziging;
+1000035;2012-11-20;1;"Besluit van een ambtenaar";Z;BA;0
+1000036;2012-11-20;1;Andere;Z+;0;0
